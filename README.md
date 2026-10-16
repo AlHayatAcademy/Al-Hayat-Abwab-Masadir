@@ -6,7 +6,9 @@ A buildless Urdu/Arabic learning platform extending the earlier Ilm-us-Sarf teac
 
 The public learner interface presents this as Dr. Imran Hayat's teaching effort. PDF filenames, scan page counts, source/publisher cards and extraction notices have been removed from public learning views. Bibliographic and review records remain in the development/editorial files. The former Sources route is now the teaching introduction; the former book route is a set of subject-based learning paths.
 
-At normal browser zoom, the header uses constrained grid columns. At 1280 CSS pixels and below, lessons open in a drawer and content uses the full width. At 700 pixels and below, six short navigation links move to the bottom with safe-area spacing. Header height is measured after fonts load and on resize, keeping the drawer aligned. Tables scroll within their own wrapper.
+The canonical layout is now in `app-layout.css`, loaded after the presentation styles. At every width, the sidebar is a fixed, closed-by-default drawer rather than a layout column. The header has two bounded rows, and the main uses a single fluid area capped at 1240 CSS pixels. At 700 pixels and below, short navigation moves to the bottom. Tables scroll inside their own wrapper. No automatic zoom-out or scale transform is used. Header height remains measured after fonts load and on resize.
+
+**Update all files**, including the new `app-layout.css` and the revised `index.html`. The new stylesheet uses the `20261016-viewport-6` cache key. Keeping an older index file or omitting this stylesheet will retain the older layout.
 
 The supplied screenshot was inspected: it showed cropped navigation/sidebar content and a low-contrast purple heading on the dark hero. The hero heading now has an explicit light color. Small Nastaleeq labels have larger sizes, text remains native rather than image-based, text-card hover translations are disabled, and the drawer backdrop no longer blurs page text. Both local fonts are preloaded. Real-browser/device verification of the revised layout remains pending; these changes must not be read as a verified screenshot comparison of the new build.
 
@@ -65,6 +67,7 @@ After editing the JSON:
 ```sh
 python3 scripts/build_data.py
 node tests/smoke.cjs
+node tests/layout-contract.cjs
 ```
 
 This regenerates the browser scripts and coverage audit. No build step is needed for hosting. Written-answer checks ignore diacritics and normalize common Arabic/Urdu letter variants; they compare letter sequences, not full grammatical correctness or every possible synonym.
