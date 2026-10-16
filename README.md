@@ -1,4 +1,4 @@
-# Al-Hayat — Abwab & Masadir
+# Al-Hayat — Safwat-ul-Masadir
 
 A buildless Urdu/Arabic learning platform extending the earlier Ilm-us-Sarf teaching site with book-based routes, a searchable morphology lexicon, and written recall.
 
@@ -8,15 +8,25 @@ Extract the archive and open `index.html`. Keep all files and folders together. 
 
 For GitHub Pages, publish the folder containing `index.html`. For Cloudflare Pages, upload that folder's **contents**. For Git deployment, no build command is required; the output directory is the folder containing `index.html` (`/` if these files are at repository root). Hash routes need no rewrite configuration. The complete code folder is below 25,000,000 bytes; the source PDF scans are deliberately excluded.
 
+## Focused learning — one click opens a word
+
+The homepage opens an individual word directly. `#safwa` organizes the 21 bab headings into simple, augmented, special and quadriliteral groups. Each bab is divided into sets of at most 10 entries. Click any word to open `#learn/v001/meaning` (example route), then move through Meaning, Forms, and Practice. Seven questions cover meaning, masdar, present, command, prohibition, related adjective/agent form, and root. A perfect result marks the word learned; other results and the ☆ button add it to personal review. `#word-review` shows these lists. Previous/next links stay within the bab.
+
+## Content audit in this revision
+
+Removed 75 unnecessary/repeated lesson MCQs, 99 caution-only short answers whose explanation was already given, and 412 repeated generic word notes. Subject material remains in lessons and notes. Added 27 word entries, including explicitly identified supplementary examples; expanded source patterns, masdar mimi, weak tafeel masdars and time/place nouns. Added 35 original Arabic sentence examples with Urdu translations, component roles and whole-sentence synthesis. The remaining word entries use their lexical families without invented sentence claims. Incorrect or unclear partly vocalized contrasts were corrected; duplicate ilhaq appendices were consolidated.
+
+The audit record is `editorial/content-audit.json`. Full bibliographic OCR verification remains a separate issue from completing the teaching curriculum. Supplemental material is labeled and has no invented PDF page number.
+
 ## Included
 
 - 72 connected lessons in 12 stages, including 10 additional applied lessons.
-- 912 lesson MCQs and 515 short-answer items.
+- 837 lesson MCQs and 420 short-answer items.
 - 14 curated verb paradigms containing 812 form-based questions; noun tables and 37 pattern cards.
-- 426 selected lexicon entries, each with root, meaning, source PDF page, past, present, masdar, command, prohibition and an agent form or established adjective.
-- 2,556 lexicon questions, giving 4,280 MCQs across the three banks. Lexicon questions are generated from the listed entries, not 2,556 separate passages authored from the books.
+- 453 selected lexicon entries, each with root, meaning, source PDF page, past, present, masdar, command, prohibition and an agent form or established adjective.
+- 3,171 lexicon questions, giving 4,820 MCQs across the three banks. Lexicon questions are generated from the listed entries, not 3,171 separate passages authored from the books.
 - Diacritic-insensitive search, bab/class/source filters, pagination, concealed forms, written recall, explanation feedback and wrong-answer review.
-- Browser-local progress, JSON export/import, dark mode, text scaling, separate Arabic/Urdu fonts, responsive layouts and different lesson palettes. No print option.
+- Browser-local lesson and word progress, JSON export/import, dark mode, text scaling, separate Arabic/Urdu fonts, responsive layouts and different lesson palettes. No print option.
 
 ## Sources and review status — read before treating this as an exhaustive edition
 
@@ -53,7 +63,11 @@ This regenerates the browser scripts and coverage audit. No build step is needed
 
 ## Validation
 
-Automated checks cover all 288 lesson views, primary routes, paradigm modes, unique question options, scoring locks, mistake retry, 12-stage balanced sampling, lexicon filters/pagination, actual event-handler wiring, written recall and selected weak-form fixtures. These tests use a simulated DOM. **A real-browser visual/device check was unavailable and remains pending.** Passing code tests does not certify every linguistic statement.
+Automated checks cover all 288 lesson views, primary routes, paradigm modes, unique question options, scoring locks, mistake retry, 12-stage balanced sampling, lexicon filters/pagination, actual event-handler wiring, written recall, all 1,359 individual-word tabs and all 21 bab routes, learned/difficult status transitions, stable unique assessment IDs and selected weak-form fixtures. These tests use a simulated DOM. **A real-browser visual/device check was unavailable and remains pending.** Passing code tests does not certify every linguistic statement.
+
+## Progress compatibility
+
+Lesson completion, saved lessons, appearance and the existing storage key are preserved. On the first load of the revised question bank, old quiz-answer flags are cleared to prevent removed/reordered questions from inheriting an unrelated result. New questions keep stable IDs. Word progress is included in exported JSON; old backups without word data still import.
 
 ## Fonts
 

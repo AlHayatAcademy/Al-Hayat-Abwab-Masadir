@@ -19,7 +19,7 @@ audit={'scope':'Authored topic and assessment coverage; not an independent criti
 lex_path=p/'lexicon.json'
 if lex_path.exists():
  lex=json.loads(lex_path.read_text(encoding='utf-8'))
- audit.update(vocabulary_entries=len(lex),vocabulary_mcqs=len(lex)*6,total_mcqs=audit['lesson_mcqs']+audit['conjugation_forms']+len(lex)*6,source_pdf_pages=925,word_for_word_review_complete=False)
+ audit.update(vocabulary_entries=len(lex),vocabulary_mcqs=len(lex)*7,total_mcqs=audit['lesson_mcqs']+audit['conjugation_forms']+len(lex)*7,source_pdf_pages=925,word_for_word_review_complete=False)
 (p/'coverage.json').write_text(json.dumps(audit,ensure_ascii=False,indent=2),encoding='utf-8')
 print({k:v for k,v in audit.items() if k not in ['scope','areas']})
 

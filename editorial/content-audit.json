@@ -1,0 +1,410 @@
+{
+  "lesson_mcqs_before": 912,
+  "lesson_mcqs_after": 837,
+  "removed_questions": [
+    {
+      "lesson": "l05",
+      "question": "l05-5",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l05",
+      "question": "l05-6",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l05",
+      "question": "l05-7",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l22",
+      "question": "l22-5",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l22",
+      "question": "l22-6",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l22",
+      "question": "l22-7",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l29",
+      "question": "l29-1",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l29",
+      "question": "l29-2",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l29",
+      "question": "l29-3",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l29",
+      "question": "l29-4",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l29",
+      "question": "l29-5",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l29",
+      "question": "l29-6",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l30",
+      "question": "l30-1",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l30",
+      "question": "l30-2",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l30",
+      "question": "l30-3",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l30",
+      "question": "l30-4",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l31",
+      "question": "l31-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l32",
+      "question": "l32-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l33",
+      "question": "l33-1",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l33",
+      "question": "l33-2",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l33",
+      "question": "l33-3",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l33",
+      "question": "l33-4",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l34",
+      "question": "l34-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l35",
+      "question": "l35-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l36",
+      "question": "l36-1",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l36",
+      "question": "l36-2",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l36",
+      "question": "l36-3",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l36",
+      "question": "l36-4",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l37",
+      "question": "l37-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l38",
+      "question": "l38-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l39",
+      "question": "l39-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l40",
+      "question": "l40-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l41",
+      "question": "l41-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l42",
+      "question": "l42-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l43",
+      "question": "l43-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l44",
+      "question": "l44-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l45",
+      "question": "l45-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l47",
+      "question": "l47-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l48",
+      "question": "l48-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l49",
+      "question": "l49-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l49",
+      "question": "l49-5",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l49",
+      "question": "l49-6",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l49",
+      "question": "l49-7",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l50",
+      "question": "l50-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l50",
+      "question": "l50-11",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l50",
+      "question": "l50-13",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l50",
+      "question": "l50-14",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l50",
+      "question": "l50-15",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l51",
+      "question": "l51-1",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l51",
+      "question": "l51-2",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l51",
+      "question": "l51-3",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l51",
+      "question": "l51-4",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l51",
+      "question": "l51-9",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l51",
+      "question": "l51-10",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l51",
+      "question": "l51-11",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l51",
+      "question": "l51-12",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l51",
+      "question": "l51-13",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l51",
+      "question": "l51-14",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l51",
+      "question": "l51-15",
+      "reason": "repeated assessment"
+    },
+    {
+      "lesson": "l52",
+      "question": "l52-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l52",
+      "question": "l52-11",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l53",
+      "question": "l53-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l54",
+      "question": "l54-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l55",
+      "question": "l55-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l55",
+      "question": "l55-12",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l55",
+      "question": "l55-21",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l55",
+      "question": "l55-29",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l56",
+      "question": "l56-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l56",
+      "question": "l56-12",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l56",
+      "question": "l56-21",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l57",
+      "question": "l57-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l58",
+      "question": "l58-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l59",
+      "question": "l59-3",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l59",
+      "question": "l59-12",
+      "reason": "obvious word-class repetition"
+    },
+    {
+      "lesson": "l60",
+      "question": "l60-3",
+      "reason": "obvious word-class repetition"
+    }
+  ],
+  "generic_word_notes_removed": 412,
+  "lexicon_before": 426,
+  "lexicon_after": 453,
+  "supplementary_entries": [
+    "v427",
+    "v446",
+    "v447",
+    "v448",
+    "v449",
+    "v450",
+    "v451",
+    "v452",
+    "v453"
+  ],
+  "completed_topics": [
+    "مصدر میمی کی بنیادی صورت",
+    "اسم زمان و مکان کی خاص صورتیں",
+    "رباعی مزید کے تین معروف خاندان",
+    "تفعیل کے مصدر میں تاء"
+  ],
+  "source_reconstruction_claim": false,
+  "redundant_caution_qa_removed": 99,
+  "resolved_sentence_examples": 35,
+  "word_learning_flow": "bab > group of up to 10 > individual word > meaning/forms/practice > personal review",
+  "short_answers_after": 420,
+  "vocabulary_mcqs": 3171,
+  "full_word_transcription_claim": false,
+  "real_browser_visual_check": "pending",
+  "new_palette_minimum_contrast": 5.8
+}

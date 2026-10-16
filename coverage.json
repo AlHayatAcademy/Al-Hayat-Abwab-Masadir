@@ -1,8 +1,8 @@
 {
   "scope": "Authored topic and assessment coverage; not an independent critical verification of every scanned page.",
   "lessons": 72,
-  "lesson_mcqs": 912,
-  "short_answers": 515,
+  "lesson_mcqs": 837,
+  "short_answers": 420,
   "patterns": 37,
   "conjugation_forms": 812,
   "areas": [
@@ -305,7 +305,7 @@
     {
       "id": "l05",
       "title": "ماضی معلوم کی مکمل بنیادی گردان",
-      "quiz_count": 64,
+      "quiz_count": 61,
       "coverage": {
         "rule": [
           "l05-0",
@@ -337,7 +337,6 @@
         ],
         "root": [
           "l05-1",
-          "l05-5",
           "l05-9",
           "l05-13",
           "l05-17",
@@ -355,7 +354,6 @@
         ],
         "pattern": [
           "l05-2",
-          "l05-6",
           "l05-10",
           "l05-14",
           "l05-18",
@@ -416,9 +414,6 @@
           "l05-60"
         ],
         "transfer": [
-          "l05-5",
-          "l05-6",
-          "l05-7",
           "l05-13",
           "l05-14",
           "l05-15",
@@ -443,7 +438,6 @@
         ],
         "meaning": [
           "l05-4",
-          "l05-7",
           "l05-12",
           "l05-15",
           "l05-20",
@@ -1320,7 +1314,7 @@
     {
       "id": "l22",
       "title": "اسم فاعل: مجرد، مزید اور جمع",
-      "quiz_count": 24,
+      "quiz_count": 21,
       "coverage": {
         "rule": [
           "l22-0",
@@ -1337,7 +1331,6 @@
         ],
         "root": [
           "l22-1",
-          "l22-5",
           "l22-9",
           "l22-13",
           "l22-17",
@@ -1345,7 +1338,6 @@
         ],
         "pattern": [
           "l22-2",
-          "l22-6",
           "l22-10",
           "l22-14",
           "l22-18",
@@ -1371,9 +1363,6 @@
           "l22-20"
         ],
         "transfer": [
-          "l22-5",
-          "l22-6",
-          "l22-7",
           "l22-13",
           "l22-14",
           "l22-15",
@@ -1383,7 +1372,6 @@
         ],
         "meaning": [
           "l22-4",
-          "l22-7",
           "l22-12",
           "l22-15",
           "l22-20",
@@ -1657,39 +1645,22 @@
     {
       "id": "l29",
       "title": "باب نصر ينصر",
-      "quiz_count": 8,
+      "quiz_count": 2,
       "coverage": {
         "rule": [
           "l29-0"
         ],
         "conditions": [
-          "l29-0",
-          "l29-2"
+          "l29-0"
         ],
-        "root": [
-          "l29-1",
-          "l29-5"
-        ],
-        "pattern": [
-          "l29-2",
-          "l29-6"
-        ],
-        "classification": [
-          "l29-3"
-        ],
-        "original-example": [
-          "l29-1",
-          "l29-2",
-          "l29-3",
-          "l29-4"
-        ],
+        "root": [],
+        "pattern": [],
+        "classification": [],
+        "original-example": [],
         "transfer": [
-          "l29-5",
-          "l29-6",
           "l29-7"
         ],
         "meaning": [
-          "l29-4",
           "l29-7"
         ]
       }
@@ -1697,39 +1668,28 @@
     {
       "id": "l30",
       "title": "باب ضرب يضرب",
-      "quiz_count": 8,
+      "quiz_count": 4,
       "coverage": {
         "rule": [
           "l30-0"
         ],
         "conditions": [
-          "l30-0",
-          "l30-2"
+          "l30-0"
         ],
         "root": [
-          "l30-1",
           "l30-5"
         ],
         "pattern": [
-          "l30-2",
           "l30-6"
         ],
-        "classification": [
-          "l30-3"
-        ],
-        "original-example": [
-          "l30-1",
-          "l30-2",
-          "l30-3",
-          "l30-4"
-        ],
+        "classification": [],
+        "original-example": [],
         "transfer": [
           "l30-5",
           "l30-6",
           "l30-7"
         ],
         "meaning": [
-          "l30-4",
           "l30-7"
         ]
       }
@@ -1737,7 +1697,7 @@
     {
       "id": "l31",
       "title": "باب سمع يسمع",
-      "quiz_count": 8,
+      "quiz_count": 7,
       "coverage": {
         "rule": [
           "l31-0"
@@ -1754,13 +1714,10 @@
           "l31-2",
           "l31-6"
         ],
-        "classification": [
-          "l31-3"
-        ],
+        "classification": [],
         "original-example": [
           "l31-1",
           "l31-2",
-          "l31-3",
           "l31-4"
         ],
         "transfer": [
@@ -1777,7 +1734,7 @@
     {
       "id": "l32",
       "title": "باب فتح يفتح",
-      "quiz_count": 8,
+      "quiz_count": 7,
       "coverage": {
         "rule": [
           "l32-0"
@@ -1794,13 +1751,10 @@
           "l32-2",
           "l32-6"
         ],
-        "classification": [
-          "l32-3"
-        ],
+        "classification": [],
         "original-example": [
           "l32-1",
           "l32-2",
-          "l32-3",
           "l32-4"
         ],
         "transfer": [
@@ -1817,39 +1771,28 @@
     {
       "id": "l33",
       "title": "باب كرم يكرم",
-      "quiz_count": 8,
+      "quiz_count": 4,
       "coverage": {
         "rule": [
           "l33-0"
         ],
         "conditions": [
-          "l33-0",
-          "l33-2"
+          "l33-0"
         ],
         "root": [
-          "l33-1",
           "l33-5"
         ],
         "pattern": [
-          "l33-2",
           "l33-6"
         ],
-        "classification": [
-          "l33-3"
-        ],
-        "original-example": [
-          "l33-1",
-          "l33-2",
-          "l33-3",
-          "l33-4"
-        ],
+        "classification": [],
+        "original-example": [],
         "transfer": [
           "l33-5",
           "l33-6",
           "l33-7"
         ],
         "meaning": [
-          "l33-4",
           "l33-7"
         ]
       }
@@ -1857,7 +1800,7 @@
     {
       "id": "l34",
       "title": "باب حسب يحسب",
-      "quiz_count": 8,
+      "quiz_count": 7,
       "coverage": {
         "rule": [
           "l34-0"
@@ -1874,13 +1817,10 @@
           "l34-2",
           "l34-6"
         ],
-        "classification": [
-          "l34-3"
-        ],
+        "classification": [],
         "original-example": [
           "l34-1",
           "l34-2",
-          "l34-3",
           "l34-4"
         ],
         "transfer": [
@@ -1897,7 +1837,7 @@
     {
       "id": "l35",
       "title": "باب إفعال",
-      "quiz_count": 9,
+      "quiz_count": 8,
       "coverage": {
         "rule": [
           "l35-0",
@@ -1917,13 +1857,10 @@
           "l35-6",
           "l35-8"
         ],
-        "classification": [
-          "l35-3"
-        ],
+        "classification": [],
         "original-example": [
           "l35-1",
           "l35-2",
-          "l35-3",
           "l35-4"
         ],
         "transfer": [
@@ -1940,39 +1877,28 @@
     {
       "id": "l36",
       "title": "باب تفعیل",
-      "quiz_count": 8,
+      "quiz_count": 4,
       "coverage": {
         "rule": [
           "l36-0"
         ],
         "conditions": [
-          "l36-0",
-          "l36-2"
+          "l36-0"
         ],
         "root": [
-          "l36-1",
           "l36-5"
         ],
         "pattern": [
-          "l36-2",
           "l36-6"
         ],
-        "classification": [
-          "l36-3"
-        ],
-        "original-example": [
-          "l36-1",
-          "l36-2",
-          "l36-3",
-          "l36-4"
-        ],
+        "classification": [],
+        "original-example": [],
         "transfer": [
           "l36-5",
           "l36-6",
           "l36-7"
         ],
         "meaning": [
-          "l36-4",
           "l36-7"
         ]
       }
@@ -1980,7 +1906,7 @@
     {
       "id": "l37",
       "title": "باب مفاعلہ",
-      "quiz_count": 8,
+      "quiz_count": 7,
       "coverage": {
         "rule": [
           "l37-0"
@@ -1997,13 +1923,10 @@
           "l37-2",
           "l37-6"
         ],
-        "classification": [
-          "l37-3"
-        ],
+        "classification": [],
         "original-example": [
           "l37-1",
           "l37-2",
-          "l37-3",
           "l37-4"
         ],
         "transfer": [
@@ -2020,7 +1943,7 @@
     {
       "id": "l38",
       "title": "باب تفعّل",
-      "quiz_count": 8,
+      "quiz_count": 7,
       "coverage": {
         "rule": [
           "l38-0"
@@ -2037,13 +1960,10 @@
           "l38-2",
           "l38-6"
         ],
-        "classification": [
-          "l38-3"
-        ],
+        "classification": [],
         "original-example": [
           "l38-1",
           "l38-2",
-          "l38-3",
           "l38-4"
         ],
         "transfer": [
@@ -2060,7 +1980,7 @@
     {
       "id": "l39",
       "title": "باب تفاعل",
-      "quiz_count": 8,
+      "quiz_count": 7,
       "coverage": {
         "rule": [
           "l39-0"
@@ -2077,13 +1997,10 @@
           "l39-2",
           "l39-6"
         ],
-        "classification": [
-          "l39-3"
-        ],
+        "classification": [],
         "original-example": [
           "l39-1",
           "l39-2",
-          "l39-3",
           "l39-4"
         ],
         "transfer": [
@@ -2100,7 +2017,7 @@
     {
       "id": "l40",
       "title": "باب انفعال",
-      "quiz_count": 8,
+      "quiz_count": 7,
       "coverage": {
         "rule": [
           "l40-0"
@@ -2117,13 +2034,10 @@
           "l40-2",
           "l40-6"
         ],
-        "classification": [
-          "l40-3"
-        ],
+        "classification": [],
         "original-example": [
           "l40-1",
           "l40-2",
-          "l40-3",
           "l40-4"
         ],
         "transfer": [
@@ -2140,7 +2054,7 @@
     {
       "id": "l41",
       "title": "باب افتعال",
-      "quiz_count": 8,
+      "quiz_count": 7,
       "coverage": {
         "rule": [
           "l41-0"
@@ -2157,13 +2071,10 @@
           "l41-2",
           "l41-6"
         ],
-        "classification": [
-          "l41-3"
-        ],
+        "classification": [],
         "original-example": [
           "l41-1",
           "l41-2",
-          "l41-3",
           "l41-4"
         ],
         "transfer": [
@@ -2180,7 +2091,7 @@
     {
       "id": "l42",
       "title": "باب افعلال اور افعیلال",
-      "quiz_count": 9,
+      "quiz_count": 8,
       "coverage": {
         "rule": [
           "l42-0"
@@ -2199,13 +2110,10 @@
           "l42-6",
           "l42-8"
         ],
-        "classification": [
-          "l42-3"
-        ],
+        "classification": [],
         "original-example": [
           "l42-1",
           "l42-2",
-          "l42-3",
           "l42-4"
         ],
         "transfer": [
@@ -2223,7 +2131,7 @@
     {
       "id": "l43",
       "title": "باب استفعال",
-      "quiz_count": 8,
+      "quiz_count": 7,
       "coverage": {
         "rule": [
           "l43-0"
@@ -2240,13 +2148,10 @@
           "l43-2",
           "l43-6"
         ],
-        "classification": [
-          "l43-3"
-        ],
+        "classification": [],
         "original-example": [
           "l43-1",
           "l43-2",
-          "l43-3",
           "l43-4"
         ],
         "transfer": [
@@ -2263,7 +2168,7 @@
     {
       "id": "l44",
       "title": "رباعی مجرد",
-      "quiz_count": 9,
+      "quiz_count": 8,
       "coverage": {
         "rule": [
           "l44-0"
@@ -2282,13 +2187,10 @@
           "l44-6",
           "l44-8"
         ],
-        "classification": [
-          "l44-3"
-        ],
+        "classification": [],
         "original-example": [
           "l44-1",
           "l44-2",
-          "l44-3",
           "l44-4"
         ],
         "transfer": [
@@ -2306,7 +2208,7 @@
     {
       "id": "l45",
       "title": "رباعی مزید فیہ",
-      "quiz_count": 11,
+      "quiz_count": 10,
       "coverage": {
         "rule": [
           "l45-0"
@@ -2329,13 +2231,10 @@
           "l45-9",
           "l45-10"
         ],
-        "classification": [
-          "l45-3"
-        ],
+        "classification": [],
         "original-example": [
           "l45-1",
           "l45-2",
-          "l45-3",
           "l45-4"
         ],
         "transfer": [
@@ -2424,7 +2323,7 @@
     {
       "id": "l47",
       "title": "ابواب کی خاص معنوی خصوصیات",
-      "quiz_count": 39,
+      "quiz_count": 38,
       "coverage": {
         "rule": [
           "l47-0"
@@ -2474,13 +2373,10 @@
           "l47-8",
           "l47-9"
         ],
-        "classification": [
-          "l47-3"
-        ],
+        "classification": [],
         "original-example": [
           "l47-1",
           "l47-2",
-          "l47-3",
           "l47-4"
         ],
         "transfer": [
@@ -2557,7 +2453,7 @@
     {
       "id": "l48",
       "title": "مزید فیہ میں معلوم و مجہول",
-      "quiz_count": 8,
+      "quiz_count": 7,
       "coverage": {
         "rule": [
           "l48-0"
@@ -2574,13 +2470,10 @@
           "l48-2",
           "l48-6"
         ],
-        "classification": [
-          "l48-3"
-        ],
+        "classification": [],
         "original-example": [
           "l48-1",
           "l48-2",
-          "l48-3",
           "l48-4"
         ],
         "transfer": [
@@ -2597,7 +2490,7 @@
     {
       "id": "l49",
       "title": "صرف صغیر اور مشتقات کا خاندان",
-      "quiz_count": 8,
+      "quiz_count": 4,
       "coverage": {
         "rule": [
           "l49-0"
@@ -2607,37 +2500,27 @@
           "l49-2"
         ],
         "root": [
-          "l49-1",
-          "l49-5"
+          "l49-1"
         ],
         "pattern": [
-          "l49-2",
-          "l49-6"
+          "l49-2"
         ],
-        "classification": [
-          "l49-3"
-        ],
+        "classification": [],
         "original-example": [
           "l49-1",
           "l49-2",
-          "l49-3",
           "l49-4"
         ],
-        "transfer": [
-          "l49-5",
-          "l49-6",
-          "l49-7"
-        ],
+        "transfer": [],
         "meaning": [
-          "l49-4",
-          "l49-7"
+          "l49-4"
         ]
       }
     },
     {
       "id": "l50",
       "title": "باب کی پہچان اور تقابلی تطبیق",
-      "quiz_count": 16,
+      "quiz_count": 11,
       "coverage": {
         "rule": [
           "l50-0",
@@ -2652,49 +2535,38 @@
         "root": [
           "l50-1",
           "l50-5",
-          "l50-9",
-          "l50-13"
+          "l50-9"
         ],
         "pattern": [
           "l50-2",
           "l50-6",
-          "l50-10",
-          "l50-14"
+          "l50-10"
         ],
-        "classification": [
-          "l50-3",
-          "l50-11"
-        ],
+        "classification": [],
         "original-example": [
           "l50-1",
           "l50-2",
-          "l50-3",
           "l50-4",
           "l50-9",
           "l50-10",
-          "l50-11",
           "l50-12"
         ],
         "transfer": [
           "l50-5",
           "l50-6",
-          "l50-7",
-          "l50-13",
-          "l50-14",
-          "l50-15"
+          "l50-7"
         ],
         "meaning": [
           "l50-4",
           "l50-7",
-          "l50-12",
-          "l50-15"
+          "l50-12"
         ]
       }
     },
     {
       "id": "l51",
       "title": "ہَفت اقسام اور صحیح کی پہچان",
-      "quiz_count": 16,
+      "quiz_count": 5,
       "coverage": {
         "rule": [
           "l51-0",
@@ -2702,56 +2574,30 @@
         ],
         "conditions": [
           "l51-0",
-          "l51-2",
-          "l51-8",
-          "l51-10"
+          "l51-8"
         ],
         "root": [
-          "l51-1",
-          "l51-5",
-          "l51-9",
-          "l51-13"
+          "l51-5"
         ],
         "pattern": [
-          "l51-2",
-          "l51-6",
-          "l51-10",
-          "l51-14"
+          "l51-6"
         ],
-        "classification": [
-          "l51-3",
-          "l51-11"
-        ],
-        "original-example": [
-          "l51-1",
-          "l51-2",
-          "l51-3",
-          "l51-4",
-          "l51-9",
-          "l51-10",
-          "l51-11",
-          "l51-12"
-        ],
+        "classification": [],
+        "original-example": [],
         "transfer": [
           "l51-5",
           "l51-6",
-          "l51-7",
-          "l51-13",
-          "l51-14",
-          "l51-15"
+          "l51-7"
         ],
         "meaning": [
-          "l51-4",
-          "l51-7",
-          "l51-12",
-          "l51-15"
+          "l51-7"
         ]
       }
     },
     {
       "id": "l52",
       "title": "مہموز: جگہ، گردان اور خاص امر",
-      "quiz_count": 16,
+      "quiz_count": 14,
       "coverage": {
         "rule": [
           "l52-0",
@@ -2775,18 +2621,13 @@
           "l52-10",
           "l52-14"
         ],
-        "classification": [
-          "l52-3",
-          "l52-11"
-        ],
+        "classification": [],
         "original-example": [
           "l52-1",
           "l52-2",
-          "l52-3",
           "l52-4",
           "l52-9",
           "l52-10",
-          "l52-11",
           "l52-12"
         ],
         "transfer": [
@@ -2808,7 +2649,7 @@
     {
       "id": "l53",
       "title": "مثال واوی",
-      "quiz_count": 8,
+      "quiz_count": 7,
       "coverage": {
         "rule": [
           "l53-0"
@@ -2825,13 +2666,10 @@
           "l53-2",
           "l53-6"
         ],
-        "classification": [
-          "l53-3"
-        ],
+        "classification": [],
         "original-example": [
           "l53-1",
           "l53-2",
-          "l53-3",
           "l53-4"
         ],
         "transfer": [
@@ -2848,7 +2686,7 @@
     {
       "id": "l54",
       "title": "مثال یائی",
-      "quiz_count": 8,
+      "quiz_count": 7,
       "coverage": {
         "rule": [
           "l54-0"
@@ -2865,13 +2703,10 @@
           "l54-2",
           "l54-6"
         ],
-        "classification": [
-          "l54-3"
-        ],
+        "classification": [],
         "original-example": [
           "l54-1",
           "l54-2",
-          "l54-3",
           "l54-4"
         ],
         "transfer": [
@@ -2888,7 +2723,7 @@
     {
       "id": "l55",
       "title": "اجوف واوی و یائی کی گردان اور تعلیل",
-      "quiz_count": 34,
+      "quiz_count": 30,
       "coverage": {
         "rule": [
           "l55-0",
@@ -2932,28 +2767,19 @@
           "l55-28",
           "l55-32"
         ],
-        "classification": [
-          "l55-3",
-          "l55-12",
-          "l55-21",
-          "l55-29"
-        ],
+        "classification": [],
         "original-example": [
           "l55-1",
           "l55-2",
-          "l55-3",
           "l55-4",
           "l55-10",
           "l55-11",
-          "l55-12",
           "l55-13",
           "l55-19",
           "l55-20",
-          "l55-21",
           "l55-22",
           "l55-27",
           "l55-28",
-          "l55-29",
           "l55-30"
         ],
         "transfer": [
@@ -2985,7 +2811,7 @@
     {
       "id": "l56",
       "title": "ناقص واوی و یائی کی گردان اور تعلیل",
-      "quiz_count": 26,
+      "quiz_count": 23,
       "coverage": {
         "rule": [
           "l56-0",
@@ -3022,23 +2848,16 @@
           "l56-20",
           "l56-24"
         ],
-        "classification": [
-          "l56-3",
-          "l56-12",
-          "l56-21"
-        ],
+        "classification": [],
         "original-example": [
           "l56-1",
           "l56-2",
-          "l56-3",
           "l56-4",
           "l56-10",
           "l56-11",
-          "l56-12",
           "l56-13",
           "l56-19",
           "l56-20",
-          "l56-21",
           "l56-22"
         ],
         "transfer": [
@@ -3065,7 +2884,7 @@
     {
       "id": "l57",
       "title": "لفیف مفروق",
-      "quiz_count": 9,
+      "quiz_count": 8,
       "coverage": {
         "rule": [
           "l57-0",
@@ -3085,13 +2904,10 @@
           "l57-6",
           "l57-8"
         ],
-        "classification": [
-          "l57-3"
-        ],
+        "classification": [],
         "original-example": [
           "l57-1",
           "l57-2",
-          "l57-3",
           "l57-4"
         ],
         "transfer": [
@@ -3108,7 +2924,7 @@
     {
       "id": "l58",
       "title": "لفیف مقرون",
-      "quiz_count": 9,
+      "quiz_count": 8,
       "coverage": {
         "rule": [
           "l58-0",
@@ -3128,13 +2944,10 @@
           "l58-6",
           "l58-8"
         ],
-        "classification": [
-          "l58-3"
-        ],
+        "classification": [],
         "original-example": [
           "l58-1",
           "l58-2",
-          "l58-3",
           "l58-4"
         ],
         "transfer": [
@@ -3151,7 +2964,7 @@
     {
       "id": "l59",
       "title": "مضاعف، ادغام اور فک ادغام",
-      "quiz_count": 18,
+      "quiz_count": 16,
       "coverage": {
         "rule": [
           "l59-0",
@@ -3181,18 +2994,13 @@
           "l59-15",
           "l59-17"
         ],
-        "classification": [
-          "l59-3",
-          "l59-12"
-        ],
+        "classification": [],
         "original-example": [
           "l59-1",
           "l59-2",
-          "l59-3",
           "l59-4",
           "l59-10",
           "l59-11",
-          "l59-12",
           "l59-13"
         ],
         "transfer": [
@@ -3214,7 +3022,7 @@
     {
       "id": "l60",
       "title": "تعلیل، ابدال اور ادغام کا تقابل",
-      "quiz_count": 11,
+      "quiz_count": 10,
       "coverage": {
         "rule": [
           "l60-0",
@@ -3238,13 +3046,10 @@
           "l60-9",
           "l60-10"
         ],
-        "classification": [
-          "l60-3"
-        ],
+        "classification": [],
         "original-example": [
           "l60-1",
           "l60-2",
-          "l60-3",
           "l60-4"
         ],
         "transfer": [
@@ -3365,6 +3170,7 @@
           "l63-root"
         ],
         "pattern": [
+          "l63-root",
           "l63-weight"
         ],
         "classification": [
@@ -3399,6 +3205,7 @@
           "l64-root"
         ],
         "pattern": [
+          "l64-root",
           "l64-weight"
         ],
         "classification": [
@@ -3433,6 +3240,7 @@
           "l65-root"
         ],
         "pattern": [
+          "l65-root",
           "l65-weight"
         ],
         "classification": [
@@ -3467,6 +3275,7 @@
           "l66-root"
         ],
         "pattern": [
+          "l66-root",
           "l66-weight"
         ],
         "classification": [
@@ -3501,6 +3310,7 @@
           "l67-root"
         ],
         "pattern": [
+          "l67-root",
           "l67-weight"
         ],
         "classification": [
@@ -3535,6 +3345,7 @@
           "l68-root"
         ],
         "pattern": [
+          "l68-root",
           "l68-weight"
         ],
         "classification": [
@@ -3569,6 +3380,7 @@
           "l69-root"
         ],
         "pattern": [
+          "l69-root",
           "l69-weight"
         ],
         "classification": [
@@ -3603,6 +3415,7 @@
           "l70-root"
         ],
         "pattern": [
+          "l70-root",
           "l70-weight"
         ],
         "classification": [
@@ -3637,6 +3450,7 @@
           "l71-root"
         ],
         "pattern": [
+          "l71-root",
           "l71-weight"
         ],
         "classification": [
@@ -3671,6 +3485,7 @@
           "l72-root"
         ],
         "pattern": [
+          "l72-root",
           "l72-weight"
         ],
         "classification": [
@@ -3690,9 +3505,9 @@
       }
     }
   ],
-  "vocabulary_entries": 426,
-  "vocabulary_mcqs": 2556,
-  "total_mcqs": 4280,
+  "vocabulary_entries": 453,
+  "vocabulary_mcqs": 3171,
+  "total_mcqs": 4820,
   "source_pdf_pages": 925,
   "word_for_word_review_complete": false
 }
