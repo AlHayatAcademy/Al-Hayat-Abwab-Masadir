@@ -47,3 +47,9 @@ for(const bad of ['#learn/missing','#chapter/missing']){ctx.location.hash=bad;ru
 assert.equal(V.find(v=>v.past==='أَقَامَ').prohibition,'لَا تُقِمْ');assert.equal(V.find(v=>v.past==='قَوَّى').masdar,'تَقْوِيَةٌ');
 assert.equal(run('new Set(questionPool().map(q=>q.id)).size'),run('questionPool().length'));
 console.log('PASS: all word learning tabs and bab routes; 7-question mastery, wrong-answer review, direct homepage start, supplemental forms, stable question IDs.');
+
+// Learner pages must not expose extraction metadata or bibliographic scan labels.
+for(const hash of ['#home','#sources','#books','#masadir','#learn/v001/meaning','#learn/v001/forms','#learn/v001/practice']){ctx.location.hash=hash;run('route()');const html=els.get('#view').innerHTML;assert(!/PDF|AAKHERAIN|\.pdf|۹۲۵|۱۰۵ صفحات|مکتبۃ البشریٰ/.test(html),hash);if(hash==='#masadir')assert(!/PDF|\.pdf/.test(els.get('#lex-grid').innerHTML));}
+ctx.location.hash='#sources';run('route()');assert(els.get('#view').innerHTML.includes('ڈاکٹر عمران حیات کی تدریسی کاوش'));
+const css=fs.readFileSync(path.join(root,'styles.css'),'utf8');assert(css.includes('--header-height'));assert(css.includes('@media(max-width:1280px)'));assert(css.includes('@media(max-width:700px)'));assert(css.includes('.sf-hero h1{color:#fff3d8!important'));assert(css.includes('backdrop-filter:none'));
+console.log('PASS: teaching attribution; no PDF/page/scan notices on learner pages; responsive breakpoints and explicit hero text contrast.');

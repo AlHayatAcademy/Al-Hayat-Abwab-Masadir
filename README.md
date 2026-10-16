@@ -2,6 +2,14 @@
 
 A buildless Urdu/Arabic learning platform extending the earlier Ilm-us-Sarf teaching site with book-based routes, a searchable morphology lexicon, and written recall.
 
+## Teaching presentation and responsive revision
+
+The public learner interface presents this as Dr. Imran Hayat's teaching effort. PDF filenames, scan page counts, source/publisher cards and extraction notices have been removed from public learning views. Bibliographic and review records remain in the development/editorial files. The former Sources route is now the teaching introduction; the former book route is a set of subject-based learning paths.
+
+At normal browser zoom, the header uses constrained grid columns. At 1280 CSS pixels and below, lessons open in a drawer and content uses the full width. At 700 pixels and below, six short navigation links move to the bottom with safe-area spacing. Header height is measured after fonts load and on resize, keeping the drawer aligned. Tables scroll within their own wrapper.
+
+The supplied screenshot was inspected: it showed cropped navigation/sidebar content and a low-contrast purple heading on the dark hero. The hero heading now has an explicit light color. Small Nastaleeq labels have larger sizes, text remains native rather than image-based, text-card hover translations are disabled, and the drawer backdrop no longer blurs page text. Both local fonts are preloaded. Real-browser/device verification of the revised layout remains pending; these changes must not be read as a verified screenshot comparison of the new build.
+
 ## Open or deploy
 
 Extract the archive and open `index.html`. Keep all files and folders together. No npm install, API key, account, network font, or server is required. For routine use, static hosting gives more consistent local-storage behavior than file URLs.
@@ -23,7 +31,7 @@ The audit record is `editorial/content-audit.json`. Full bibliographic OCR verif
 - 72 connected lessons in 12 stages, including 10 additional applied lessons.
 - 837 lesson MCQs and 420 short-answer items.
 - 14 curated verb paradigms containing 812 form-based questions; noun tables and 37 pattern cards.
-- 453 selected lexicon entries, each with root, meaning, source PDF page, past, present, masdar, command, prohibition and an agent form or established adjective.
+- 453 selected lexicon entries, each with root, meaning, source PDF page in the editable metadata, past, present, masdar, command, prohibition and an agent form or established adjective.
 - 3,171 lexicon questions, giving 4,820 MCQs across the three banks. Lexicon questions are generated from the listed entries, not 3,171 separate passages authored from the books.
 - Diacritic-insensitive search, bab/class/source filters, pagination, concealed forms, written recall, explanation feedback and wrong-answer review.
 - Browser-local lesson and word progress, JSON export/import, dark mode, text scaling, separate Arabic/Urdu fonts, responsive layouts and different lesson palettes. No print option.
