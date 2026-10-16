@@ -1,0 +1,6504 @@
+{
+  "notice": "OCR is an extraction attempt, not verified transcription. Visual flags record pages opened at readable resolution; they do not certify every glyph or table cell. Contact-sheet sampling is excluded from these flags.",
+  "books": [
+    {
+      "name": "WQB (1).pdf",
+      "pdf_pages": 118,
+      "pages": [
+        {
+          "pdf_page": 1,
+          "ocr_attempted": true,
+          "ocr_characters": 607,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 2,
+          "ocr_attempted": true,
+          "ocr_characters": 8,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 3,
+          "ocr_attempted": true,
+          "ocr_characters": 88,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 4,
+          "ocr_attempted": true,
+          "ocr_characters": 133,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 5,
+          "ocr_attempted": true,
+          "ocr_characters": 721,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 6,
+          "ocr_attempted": true,
+          "ocr_characters": 1039,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 7,
+          "ocr_attempted": true,
+          "ocr_characters": 760,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 8,
+          "ocr_attempted": true,
+          "ocr_characters": 620,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 9,
+          "ocr_attempted": true,
+          "ocr_characters": 887,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 10,
+          "ocr_attempted": true,
+          "ocr_characters": 595,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 11,
+          "ocr_attempted": true,
+          "ocr_characters": 651,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 12,
+          "ocr_attempted": true,
+          "ocr_characters": 548,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 13,
+          "ocr_attempted": true,
+          "ocr_characters": 504,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 14,
+          "ocr_attempted": true,
+          "ocr_characters": 296,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 15,
+          "ocr_attempted": true,
+          "ocr_characters": 762,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 16,
+          "ocr_attempted": true,
+          "ocr_characters": 645,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 17,
+          "ocr_attempted": true,
+          "ocr_characters": 518,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 18,
+          "ocr_attempted": true,
+          "ocr_characters": 545,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 19,
+          "ocr_attempted": true,
+          "ocr_characters": 509,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 20,
+          "ocr_attempted": true,
+          "ocr_characters": 273,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 21,
+          "ocr_attempted": true,
+          "ocr_characters": 713,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 22,
+          "ocr_attempted": true,
+          "ocr_characters": 872,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 23,
+          "ocr_attempted": true,
+          "ocr_characters": 434,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 24,
+          "ocr_attempted": true,
+          "ocr_characters": 375,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 25,
+          "ocr_attempted": true,
+          "ocr_characters": 559,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 26,
+          "ocr_attempted": true,
+          "ocr_characters": 729,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 27,
+          "ocr_attempted": true,
+          "ocr_characters": 463,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 28,
+          "ocr_attempted": true,
+          "ocr_characters": 336,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 29,
+          "ocr_attempted": true,
+          "ocr_characters": 656,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 30,
+          "ocr_attempted": true,
+          "ocr_characters": 468,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 31,
+          "ocr_attempted": true,
+          "ocr_characters": 629,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 32,
+          "ocr_attempted": true,
+          "ocr_characters": 448,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 33,
+          "ocr_attempted": true,
+          "ocr_characters": 686,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 34,
+          "ocr_attempted": true,
+          "ocr_characters": 386,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 35,
+          "ocr_attempted": true,
+          "ocr_characters": 705,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 36,
+          "ocr_attempted": true,
+          "ocr_characters": 377,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 37,
+          "ocr_attempted": true,
+          "ocr_characters": 296,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 38,
+          "ocr_attempted": true,
+          "ocr_characters": 949,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 39,
+          "ocr_attempted": true,
+          "ocr_characters": 553,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 40,
+          "ocr_attempted": true,
+          "ocr_characters": 364,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 41,
+          "ocr_attempted": true,
+          "ocr_characters": 547,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 42,
+          "ocr_attempted": true,
+          "ocr_characters": 698,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 43,
+          "ocr_attempted": true,
+          "ocr_characters": 630,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 44,
+          "ocr_attempted": true,
+          "ocr_characters": 208,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 45,
+          "ocr_attempted": true,
+          "ocr_characters": 529,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 46,
+          "ocr_attempted": true,
+          "ocr_characters": 270,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 47,
+          "ocr_attempted": true,
+          "ocr_characters": 713,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 48,
+          "ocr_attempted": true,
+          "ocr_characters": 580,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 49,
+          "ocr_attempted": true,
+          "ocr_characters": 610,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 50,
+          "ocr_attempted": true,
+          "ocr_characters": 426,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 51,
+          "ocr_attempted": true,
+          "ocr_characters": 882,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 52,
+          "ocr_attempted": true,
+          "ocr_characters": 777,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 53,
+          "ocr_attempted": true,
+          "ocr_characters": 329,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 54,
+          "ocr_attempted": true,
+          "ocr_characters": 41,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 55,
+          "ocr_attempted": true,
+          "ocr_characters": 374,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 56,
+          "ocr_attempted": true,
+          "ocr_characters": 638,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 57,
+          "ocr_attempted": true,
+          "ocr_characters": 758,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 58,
+          "ocr_attempted": true,
+          "ocr_characters": 9,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 59,
+          "ocr_attempted": true,
+          "ocr_characters": 332,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 60,
+          "ocr_attempted": true,
+          "ocr_characters": 382,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 61,
+          "ocr_attempted": true,
+          "ocr_characters": 685,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 62,
+          "ocr_attempted": true,
+          "ocr_characters": 715,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 63,
+          "ocr_attempted": true,
+          "ocr_characters": 343,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 64,
+          "ocr_attempted": true,
+          "ocr_characters": 704,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 65,
+          "ocr_attempted": true,
+          "ocr_characters": 475,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 66,
+          "ocr_attempted": true,
+          "ocr_characters": 589,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 67,
+          "ocr_attempted": true,
+          "ocr_characters": 659,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 68,
+          "ocr_attempted": true,
+          "ocr_characters": 384,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 69,
+          "ocr_attempted": true,
+          "ocr_characters": 673,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 70,
+          "ocr_attempted": true,
+          "ocr_characters": 686,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 71,
+          "ocr_attempted": true,
+          "ocr_characters": 417,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 72,
+          "ocr_attempted": true,
+          "ocr_characters": 728,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 73,
+          "ocr_attempted": true,
+          "ocr_characters": 209,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 74,
+          "ocr_attempted": true,
+          "ocr_characters": 427,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 75,
+          "ocr_attempted": true,
+          "ocr_characters": 495,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 76,
+          "ocr_attempted": true,
+          "ocr_characters": 120,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 77,
+          "ocr_attempted": true,
+          "ocr_characters": 164,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 78,
+          "ocr_attempted": true,
+          "ocr_characters": 504,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 79,
+          "ocr_attempted": true,
+          "ocr_characters": 599,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 80,
+          "ocr_attempted": true,
+          "ocr_characters": 599,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 81,
+          "ocr_attempted": true,
+          "ocr_characters": 416,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 82,
+          "ocr_attempted": true,
+          "ocr_characters": 163,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 83,
+          "ocr_attempted": true,
+          "ocr_characters": 90,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 84,
+          "ocr_attempted": true,
+          "ocr_characters": 445,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 85,
+          "ocr_attempted": true,
+          "ocr_characters": 336,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 86,
+          "ocr_attempted": true,
+          "ocr_characters": 41,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 87,
+          "ocr_attempted": true,
+          "ocr_characters": 35,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 88,
+          "ocr_attempted": true,
+          "ocr_characters": 10,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 89,
+          "ocr_attempted": true,
+          "ocr_characters": 779,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 90,
+          "ocr_attempted": true,
+          "ocr_characters": 19,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 91,
+          "ocr_attempted": true,
+          "ocr_characters": 588,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 92,
+          "ocr_attempted": true,
+          "ocr_characters": 402,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 93,
+          "ocr_attempted": true,
+          "ocr_characters": 767,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 94,
+          "ocr_attempted": true,
+          "ocr_characters": 406,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 95,
+          "ocr_attempted": true,
+          "ocr_characters": 723,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 96,
+          "ocr_attempted": true,
+          "ocr_characters": 584,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 97,
+          "ocr_attempted": true,
+          "ocr_characters": 445,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 98,
+          "ocr_attempted": true,
+          "ocr_characters": 722,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 99,
+          "ocr_attempted": true,
+          "ocr_characters": 819,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 100,
+          "ocr_attempted": true,
+          "ocr_characters": 459,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 101,
+          "ocr_attempted": true,
+          "ocr_characters": 434,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 102,
+          "ocr_attempted": true,
+          "ocr_characters": 552,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 103,
+          "ocr_attempted": true,
+          "ocr_characters": 796,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 104,
+          "ocr_attempted": true,
+          "ocr_characters": 732,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 105,
+          "ocr_attempted": true,
+          "ocr_characters": 632,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 106,
+          "ocr_attempted": true,
+          "ocr_characters": 572,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 107,
+          "ocr_attempted": true,
+          "ocr_characters": 711,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 108,
+          "ocr_attempted": true,
+          "ocr_characters": 446,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 109,
+          "ocr_attempted": true,
+          "ocr_characters": 357,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 110,
+          "ocr_attempted": true,
+          "ocr_characters": 426,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 111,
+          "ocr_attempted": true,
+          "ocr_characters": 719,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 112,
+          "ocr_attempted": true,
+          "ocr_characters": 140,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 113,
+          "ocr_attempted": true,
+          "ocr_characters": 386,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 114,
+          "ocr_attempted": true,
+          "ocr_characters": 556,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 115,
+          "ocr_attempted": true,
+          "ocr_characters": 12,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 116,
+          "ocr_attempted": true,
+          "ocr_characters": 787,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 117,
+          "ocr_attempted": true,
+          "ocr_characters": 787,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 118,
+          "ocr_attempted": true,
+          "ocr_characters": 133,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        }
+      ]
+    },
+    {
+      "name": "تیسیر ابواب الصرف.pdf",
+      "pdf_pages": 682,
+      "pages": [
+        {
+          "pdf_page": 1,
+          "ocr_attempted": true,
+          "ocr_characters": 41,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 2,
+          "ocr_attempted": true,
+          "ocr_characters": 6,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 3,
+          "ocr_attempted": true,
+          "ocr_characters": 15,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 4,
+          "ocr_attempted": true,
+          "ocr_characters": 156,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 5,
+          "ocr_attempted": true,
+          "ocr_characters": 681,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 6,
+          "ocr_attempted": true,
+          "ocr_characters": 218,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 7,
+          "ocr_attempted": true,
+          "ocr_characters": 332,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 8,
+          "ocr_attempted": true,
+          "ocr_characters": 1077,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 9,
+          "ocr_attempted": true,
+          "ocr_characters": 375,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 10,
+          "ocr_attempted": true,
+          "ocr_characters": 1058,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 11,
+          "ocr_attempted": true,
+          "ocr_characters": 951,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 12,
+          "ocr_attempted": true,
+          "ocr_characters": 328,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 13,
+          "ocr_attempted": true,
+          "ocr_characters": 3,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 14,
+          "ocr_attempted": true,
+          "ocr_characters": 247,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 15,
+          "ocr_attempted": true,
+          "ocr_characters": 461,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 16,
+          "ocr_attempted": true,
+          "ocr_characters": 294,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 17,
+          "ocr_attempted": true,
+          "ocr_characters": 695,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 18,
+          "ocr_attempted": true,
+          "ocr_characters": 653,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 19,
+          "ocr_attempted": true,
+          "ocr_characters": 628,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 20,
+          "ocr_attempted": true,
+          "ocr_characters": 733,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 21,
+          "ocr_attempted": true,
+          "ocr_characters": 864,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 22,
+          "ocr_attempted": true,
+          "ocr_characters": 612,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 23,
+          "ocr_attempted": true,
+          "ocr_characters": 675,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 24,
+          "ocr_attempted": true,
+          "ocr_characters": 666,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 25,
+          "ocr_attempted": true,
+          "ocr_characters": 676,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 26,
+          "ocr_attempted": true,
+          "ocr_characters": 654,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 27,
+          "ocr_attempted": true,
+          "ocr_characters": 657,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 28,
+          "ocr_attempted": true,
+          "ocr_characters": 697,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 29,
+          "ocr_attempted": true,
+          "ocr_characters": 701,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 30,
+          "ocr_attempted": true,
+          "ocr_characters": 647,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 31,
+          "ocr_attempted": true,
+          "ocr_characters": 971,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 32,
+          "ocr_attempted": true,
+          "ocr_characters": 510,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 33,
+          "ocr_attempted": true,
+          "ocr_characters": 993,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 34,
+          "ocr_attempted": true,
+          "ocr_characters": 797,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 35,
+          "ocr_attempted": true,
+          "ocr_characters": 878,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 36,
+          "ocr_attempted": true,
+          "ocr_characters": 840,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 37,
+          "ocr_attempted": true,
+          "ocr_characters": 731,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 38,
+          "ocr_attempted": true,
+          "ocr_characters": 802,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 39,
+          "ocr_attempted": true,
+          "ocr_characters": 660,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 40,
+          "ocr_attempted": true,
+          "ocr_characters": 858,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 41,
+          "ocr_attempted": true,
+          "ocr_characters": 501,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 42,
+          "ocr_attempted": true,
+          "ocr_characters": 131,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 43,
+          "ocr_attempted": true,
+          "ocr_characters": 390,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 44,
+          "ocr_attempted": true,
+          "ocr_characters": 309,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 45,
+          "ocr_attempted": true,
+          "ocr_characters": 117,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 46,
+          "ocr_attempted": true,
+          "ocr_characters": 217,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 47,
+          "ocr_attempted": true,
+          "ocr_characters": 88,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 48,
+          "ocr_attempted": true,
+          "ocr_characters": 474,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 49,
+          "ocr_attempted": true,
+          "ocr_characters": 6,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 50,
+          "ocr_attempted": true,
+          "ocr_characters": 389,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 51,
+          "ocr_attempted": true,
+          "ocr_characters": 285,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 52,
+          "ocr_attempted": true,
+          "ocr_characters": 403,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 53,
+          "ocr_attempted": true,
+          "ocr_characters": 6,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 54,
+          "ocr_attempted": true,
+          "ocr_characters": 89,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 55,
+          "ocr_attempted": true,
+          "ocr_characters": 158,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 56,
+          "ocr_attempted": true,
+          "ocr_characters": 391,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 57,
+          "ocr_attempted": true,
+          "ocr_characters": 228,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 58,
+          "ocr_attempted": true,
+          "ocr_characters": 681,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 59,
+          "ocr_attempted": true,
+          "ocr_characters": 459,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 60,
+          "ocr_attempted": true,
+          "ocr_characters": 410,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 61,
+          "ocr_attempted": true,
+          "ocr_characters": 438,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 62,
+          "ocr_attempted": true,
+          "ocr_characters": 207,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 63,
+          "ocr_attempted": true,
+          "ocr_characters": 452,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 64,
+          "ocr_attempted": true,
+          "ocr_characters": 523,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 65,
+          "ocr_attempted": true,
+          "ocr_characters": 115,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 66,
+          "ocr_attempted": true,
+          "ocr_characters": 298,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 67,
+          "ocr_attempted": true,
+          "ocr_characters": 185,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 68,
+          "ocr_attempted": true,
+          "ocr_characters": 260,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 69,
+          "ocr_attempted": true,
+          "ocr_characters": 583,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 70,
+          "ocr_attempted": true,
+          "ocr_characters": 184,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 71,
+          "ocr_attempted": true,
+          "ocr_characters": 210,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 72,
+          "ocr_attempted": true,
+          "ocr_characters": 10,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 73,
+          "ocr_attempted": true,
+          "ocr_characters": 231,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 74,
+          "ocr_attempted": true,
+          "ocr_characters": 477,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 75,
+          "ocr_attempted": true,
+          "ocr_characters": 550,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 76,
+          "ocr_attempted": true,
+          "ocr_characters": 67,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 77,
+          "ocr_attempted": true,
+          "ocr_characters": 49,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 78,
+          "ocr_attempted": true,
+          "ocr_characters": 60,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 79,
+          "ocr_attempted": true,
+          "ocr_characters": 168,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 80,
+          "ocr_attempted": true,
+          "ocr_characters": 177,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 81,
+          "ocr_attempted": true,
+          "ocr_characters": 311,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 82,
+          "ocr_attempted": true,
+          "ocr_characters": 162,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 83,
+          "ocr_attempted": true,
+          "ocr_characters": 95,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 84,
+          "ocr_attempted": true,
+          "ocr_characters": 9,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 85,
+          "ocr_attempted": true,
+          "ocr_characters": 75,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 86,
+          "ocr_attempted": true,
+          "ocr_characters": 235,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 87,
+          "ocr_attempted": true,
+          "ocr_characters": 106,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 88,
+          "ocr_attempted": true,
+          "ocr_characters": 9,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 89,
+          "ocr_attempted": true,
+          "ocr_characters": 5,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 90,
+          "ocr_attempted": true,
+          "ocr_characters": 10,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 91,
+          "ocr_attempted": true,
+          "ocr_characters": 28,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 92,
+          "ocr_attempted": true,
+          "ocr_characters": 480,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 93,
+          "ocr_attempted": true,
+          "ocr_characters": 75,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 94,
+          "ocr_attempted": true,
+          "ocr_characters": 938,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 95,
+          "ocr_attempted": true,
+          "ocr_characters": 620,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 96,
+          "ocr_attempted": true,
+          "ocr_characters": 447,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 97,
+          "ocr_attempted": true,
+          "ocr_characters": 652,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 98,
+          "ocr_attempted": true,
+          "ocr_characters": 353,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 99,
+          "ocr_attempted": true,
+          "ocr_characters": 1193,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 100,
+          "ocr_attempted": true,
+          "ocr_characters": 755,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 101,
+          "ocr_attempted": true,
+          "ocr_characters": 557,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 102,
+          "ocr_attempted": true,
+          "ocr_characters": 484,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 103,
+          "ocr_attempted": true,
+          "ocr_characters": 665,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 104,
+          "ocr_attempted": true,
+          "ocr_characters": 212,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 105,
+          "ocr_attempted": true,
+          "ocr_characters": 255,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 106,
+          "ocr_attempted": true,
+          "ocr_characters": 934,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 107,
+          "ocr_attempted": true,
+          "ocr_characters": 836,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 108,
+          "ocr_attempted": true,
+          "ocr_characters": 420,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 109,
+          "ocr_attempted": true,
+          "ocr_characters": 857,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 110,
+          "ocr_attempted": true,
+          "ocr_characters": 308,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 111,
+          "ocr_attempted": true,
+          "ocr_characters": 482,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 112,
+          "ocr_attempted": true,
+          "ocr_characters": 10,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 113,
+          "ocr_attempted": true,
+          "ocr_characters": 71,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 114,
+          "ocr_attempted": true,
+          "ocr_characters": 20,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 115,
+          "ocr_attempted": true,
+          "ocr_characters": 398,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 116,
+          "ocr_attempted": true,
+          "ocr_characters": 391,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 117,
+          "ocr_attempted": true,
+          "ocr_characters": 438,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 118,
+          "ocr_attempted": true,
+          "ocr_characters": 832,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 119,
+          "ocr_attempted": true,
+          "ocr_characters": 232,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 120,
+          "ocr_attempted": true,
+          "ocr_characters": 163,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 121,
+          "ocr_attempted": true,
+          "ocr_characters": 464,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 122,
+          "ocr_attempted": true,
+          "ocr_characters": 577,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 123,
+          "ocr_attempted": true,
+          "ocr_characters": 493,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 124,
+          "ocr_attempted": true,
+          "ocr_characters": 193,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 125,
+          "ocr_attempted": true,
+          "ocr_characters": 554,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 126,
+          "ocr_attempted": true,
+          "ocr_characters": 337,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 127,
+          "ocr_attempted": true,
+          "ocr_characters": 838,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 128,
+          "ocr_attempted": true,
+          "ocr_characters": 764,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 129,
+          "ocr_attempted": true,
+          "ocr_characters": 586,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 130,
+          "ocr_attempted": true,
+          "ocr_characters": 796,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 131,
+          "ocr_attempted": true,
+          "ocr_characters": 653,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 132,
+          "ocr_attempted": true,
+          "ocr_characters": 199,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 133,
+          "ocr_attempted": true,
+          "ocr_characters": 1152,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 134,
+          "ocr_attempted": true,
+          "ocr_characters": 443,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 135,
+          "ocr_attempted": true,
+          "ocr_characters": 833,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 136,
+          "ocr_attempted": true,
+          "ocr_characters": 177,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 137,
+          "ocr_attempted": true,
+          "ocr_characters": 519,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 138,
+          "ocr_attempted": true,
+          "ocr_characters": 472,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 139,
+          "ocr_attempted": true,
+          "ocr_characters": 653,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 140,
+          "ocr_attempted": true,
+          "ocr_characters": 889,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 141,
+          "ocr_attempted": true,
+          "ocr_characters": 194,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 142,
+          "ocr_attempted": true,
+          "ocr_characters": 335,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 143,
+          "ocr_attempted": true,
+          "ocr_characters": 526,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 144,
+          "ocr_attempted": true,
+          "ocr_characters": 198,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 145,
+          "ocr_attempted": true,
+          "ocr_characters": 989,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 146,
+          "ocr_attempted": true,
+          "ocr_characters": 550,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 147,
+          "ocr_attempted": true,
+          "ocr_characters": 627,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 148,
+          "ocr_attempted": true,
+          "ocr_characters": 100,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 149,
+          "ocr_attempted": true,
+          "ocr_characters": 403,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 150,
+          "ocr_attempted": true,
+          "ocr_characters": 472,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 151,
+          "ocr_attempted": true,
+          "ocr_characters": 496,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 152,
+          "ocr_attempted": true,
+          "ocr_characters": 486,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 153,
+          "ocr_attempted": true,
+          "ocr_characters": 666,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 154,
+          "ocr_attempted": true,
+          "ocr_characters": 540,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 155,
+          "ocr_attempted": true,
+          "ocr_characters": 516,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 156,
+          "ocr_attempted": true,
+          "ocr_characters": 857,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 157,
+          "ocr_attempted": true,
+          "ocr_characters": 39,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 158,
+          "ocr_attempted": true,
+          "ocr_characters": 303,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 159,
+          "ocr_attempted": true,
+          "ocr_characters": 830,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 160,
+          "ocr_attempted": true,
+          "ocr_characters": 886,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 161,
+          "ocr_attempted": true,
+          "ocr_characters": 590,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 162,
+          "ocr_attempted": true,
+          "ocr_characters": 306,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 163,
+          "ocr_attempted": true,
+          "ocr_characters": 246,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 164,
+          "ocr_attempted": true,
+          "ocr_characters": 527,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 165,
+          "ocr_attempted": true,
+          "ocr_characters": 605,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 166,
+          "ocr_attempted": true,
+          "ocr_characters": 803,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 167,
+          "ocr_attempted": true,
+          "ocr_characters": 835,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 168,
+          "ocr_attempted": true,
+          "ocr_characters": 490,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 169,
+          "ocr_attempted": true,
+          "ocr_characters": 509,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 170,
+          "ocr_attempted": true,
+          "ocr_characters": 449,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 171,
+          "ocr_attempted": true,
+          "ocr_characters": 426,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 172,
+          "ocr_attempted": true,
+          "ocr_characters": 342,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 173,
+          "ocr_attempted": true,
+          "ocr_characters": 516,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 174,
+          "ocr_attempted": true,
+          "ocr_characters": 486,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 175,
+          "ocr_attempted": true,
+          "ocr_characters": 454,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 176,
+          "ocr_attempted": true,
+          "ocr_characters": 224,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 177,
+          "ocr_attempted": true,
+          "ocr_characters": 737,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 178,
+          "ocr_attempted": true,
+          "ocr_characters": 212,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 179,
+          "ocr_attempted": true,
+          "ocr_characters": 812,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 180,
+          "ocr_attempted": true,
+          "ocr_characters": 901,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 181,
+          "ocr_attempted": true,
+          "ocr_characters": 656,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 182,
+          "ocr_attempted": true,
+          "ocr_characters": 982,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 183,
+          "ocr_attempted": true,
+          "ocr_characters": 973,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 184,
+          "ocr_attempted": true,
+          "ocr_characters": 132,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 185,
+          "ocr_attempted": true,
+          "ocr_characters": 741,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 186,
+          "ocr_attempted": true,
+          "ocr_characters": 473,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 187,
+          "ocr_attempted": true,
+          "ocr_characters": 431,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 188,
+          "ocr_attempted": true,
+          "ocr_characters": 131,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 189,
+          "ocr_attempted": true,
+          "ocr_characters": 103,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 190,
+          "ocr_attempted": true,
+          "ocr_characters": 729,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 191,
+          "ocr_attempted": true,
+          "ocr_characters": 421,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 192,
+          "ocr_attempted": true,
+          "ocr_characters": 888,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 193,
+          "ocr_attempted": true,
+          "ocr_characters": 499,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 194,
+          "ocr_attempted": true,
+          "ocr_characters": 848,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 195,
+          "ocr_attempted": true,
+          "ocr_characters": 559,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 196,
+          "ocr_attempted": true,
+          "ocr_characters": 719,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 197,
+          "ocr_attempted": true,
+          "ocr_characters": 638,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 198,
+          "ocr_attempted": true,
+          "ocr_characters": 276,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 199,
+          "ocr_attempted": true,
+          "ocr_characters": 845,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 200,
+          "ocr_attempted": true,
+          "ocr_characters": 372,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 201,
+          "ocr_attempted": true,
+          "ocr_characters": 7,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 202,
+          "ocr_attempted": true,
+          "ocr_characters": 455,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 203,
+          "ocr_attempted": true,
+          "ocr_characters": 762,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 204,
+          "ocr_attempted": true,
+          "ocr_characters": 472,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 205,
+          "ocr_attempted": true,
+          "ocr_characters": 503,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 206,
+          "ocr_attempted": true,
+          "ocr_characters": 853,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 207,
+          "ocr_attempted": true,
+          "ocr_characters": 165,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 208,
+          "ocr_attempted": true,
+          "ocr_characters": 10,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 209,
+          "ocr_attempted": true,
+          "ocr_characters": 420,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 210,
+          "ocr_attempted": true,
+          "ocr_characters": 566,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 211,
+          "ocr_attempted": true,
+          "ocr_characters": 548,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 212,
+          "ocr_attempted": true,
+          "ocr_characters": 769,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 213,
+          "ocr_attempted": true,
+          "ocr_characters": 275,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 214,
+          "ocr_attempted": true,
+          "ocr_characters": 575,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 215,
+          "ocr_attempted": true,
+          "ocr_characters": 326,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 216,
+          "ocr_attempted": true,
+          "ocr_characters": 165,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 217,
+          "ocr_attempted": true,
+          "ocr_characters": 320,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 218,
+          "ocr_attempted": true,
+          "ocr_characters": 337,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 219,
+          "ocr_attempted": true,
+          "ocr_characters": 3,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 220,
+          "ocr_attempted": true,
+          "ocr_characters": 542,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 221,
+          "ocr_attempted": true,
+          "ocr_characters": 537,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 222,
+          "ocr_attempted": true,
+          "ocr_characters": 294,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 223,
+          "ocr_attempted": true,
+          "ocr_characters": 738,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 224,
+          "ocr_attempted": true,
+          "ocr_characters": 340,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 225,
+          "ocr_attempted": true,
+          "ocr_characters": 209,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 226,
+          "ocr_attempted": true,
+          "ocr_characters": 260,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 227,
+          "ocr_attempted": true,
+          "ocr_characters": 248,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 228,
+          "ocr_attempted": true,
+          "ocr_characters": 484,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 229,
+          "ocr_attempted": true,
+          "ocr_characters": 728,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 230,
+          "ocr_attempted": true,
+          "ocr_characters": 452,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 231,
+          "ocr_attempted": true,
+          "ocr_characters": 659,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 232,
+          "ocr_attempted": true,
+          "ocr_characters": 753,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 233,
+          "ocr_attempted": true,
+          "ocr_characters": 216,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 234,
+          "ocr_attempted": true,
+          "ocr_characters": 210,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 235,
+          "ocr_attempted": true,
+          "ocr_characters": 477,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 236,
+          "ocr_attempted": true,
+          "ocr_characters": 777,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 237,
+          "ocr_attempted": true,
+          "ocr_characters": 774,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 238,
+          "ocr_attempted": true,
+          "ocr_characters": 409,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 239,
+          "ocr_attempted": true,
+          "ocr_characters": 726,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 240,
+          "ocr_attempted": true,
+          "ocr_characters": 572,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 241,
+          "ocr_attempted": true,
+          "ocr_characters": 479,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 242,
+          "ocr_attempted": true,
+          "ocr_characters": 100,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 243,
+          "ocr_attempted": true,
+          "ocr_characters": 679,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 244,
+          "ocr_attempted": true,
+          "ocr_characters": 409,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 245,
+          "ocr_attempted": true,
+          "ocr_characters": 931,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 246,
+          "ocr_attempted": true,
+          "ocr_characters": 300,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 247,
+          "ocr_attempted": true,
+          "ocr_characters": 383,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 248,
+          "ocr_attempted": true,
+          "ocr_characters": 448,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 249,
+          "ocr_attempted": true,
+          "ocr_characters": 760,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 250,
+          "ocr_attempted": true,
+          "ocr_characters": 580,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 251,
+          "ocr_attempted": true,
+          "ocr_characters": 705,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 252,
+          "ocr_attempted": true,
+          "ocr_characters": 87,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 253,
+          "ocr_attempted": true,
+          "ocr_characters": 854,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 254,
+          "ocr_attempted": true,
+          "ocr_characters": 710,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 255,
+          "ocr_attempted": true,
+          "ocr_characters": 829,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 256,
+          "ocr_attempted": true,
+          "ocr_characters": 786,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 257,
+          "ocr_attempted": true,
+          "ocr_characters": 365,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 258,
+          "ocr_attempted": true,
+          "ocr_characters": 138,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 259,
+          "ocr_attempted": true,
+          "ocr_characters": 1215,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 260,
+          "ocr_attempted": true,
+          "ocr_characters": 919,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 261,
+          "ocr_attempted": true,
+          "ocr_characters": 493,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 262,
+          "ocr_attempted": true,
+          "ocr_characters": 969,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 263,
+          "ocr_attempted": true,
+          "ocr_characters": 750,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 264,
+          "ocr_attempted": true,
+          "ocr_characters": 672,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 265,
+          "ocr_attempted": true,
+          "ocr_characters": 1064,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 266,
+          "ocr_attempted": true,
+          "ocr_characters": 955,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 267,
+          "ocr_attempted": true,
+          "ocr_characters": 894,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 268,
+          "ocr_attempted": true,
+          "ocr_characters": 947,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 269,
+          "ocr_attempted": true,
+          "ocr_characters": 625,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 270,
+          "ocr_attempted": true,
+          "ocr_characters": 273,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 271,
+          "ocr_attempted": true,
+          "ocr_characters": 970,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 272,
+          "ocr_attempted": true,
+          "ocr_characters": 568,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 273,
+          "ocr_attempted": true,
+          "ocr_characters": 584,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 274,
+          "ocr_attempted": true,
+          "ocr_characters": 463,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 275,
+          "ocr_attempted": true,
+          "ocr_characters": 234,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 276,
+          "ocr_attempted": true,
+          "ocr_characters": 663,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 277,
+          "ocr_attempted": true,
+          "ocr_characters": 868,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 278,
+          "ocr_attempted": true,
+          "ocr_characters": 978,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 279,
+          "ocr_attempted": true,
+          "ocr_characters": 943,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 280,
+          "ocr_attempted": true,
+          "ocr_characters": 569,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 281,
+          "ocr_attempted": true,
+          "ocr_characters": 874,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 282,
+          "ocr_attempted": true,
+          "ocr_characters": 56,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 283,
+          "ocr_attempted": true,
+          "ocr_characters": 704,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 284,
+          "ocr_attempted": true,
+          "ocr_characters": 142,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 285,
+          "ocr_attempted": true,
+          "ocr_characters": 643,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 286,
+          "ocr_attempted": true,
+          "ocr_characters": 803,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 287,
+          "ocr_attempted": true,
+          "ocr_characters": 439,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 288,
+          "ocr_attempted": true,
+          "ocr_characters": 621,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 289,
+          "ocr_attempted": true,
+          "ocr_characters": 1097,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 290,
+          "ocr_attempted": true,
+          "ocr_characters": 870,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 291,
+          "ocr_attempted": true,
+          "ocr_characters": 870,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 292,
+          "ocr_attempted": true,
+          "ocr_characters": 951,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 293,
+          "ocr_attempted": true,
+          "ocr_characters": 783,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 294,
+          "ocr_attempted": true,
+          "ocr_characters": 464,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 295,
+          "ocr_attempted": true,
+          "ocr_characters": 991,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 296,
+          "ocr_attempted": true,
+          "ocr_characters": 853,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 297,
+          "ocr_attempted": true,
+          "ocr_characters": 808,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 298,
+          "ocr_attempted": true,
+          "ocr_characters": 1006,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 299,
+          "ocr_attempted": true,
+          "ocr_characters": 364,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 300,
+          "ocr_attempted": true,
+          "ocr_characters": 901,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 301,
+          "ocr_attempted": true,
+          "ocr_characters": 705,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 302,
+          "ocr_attempted": true,
+          "ocr_characters": 843,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 303,
+          "ocr_attempted": true,
+          "ocr_characters": 396,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 304,
+          "ocr_attempted": true,
+          "ocr_characters": 255,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 305,
+          "ocr_attempted": true,
+          "ocr_characters": 268,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 306,
+          "ocr_attempted": true,
+          "ocr_characters": 517,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 307,
+          "ocr_attempted": true,
+          "ocr_characters": 401,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 308,
+          "ocr_attempted": true,
+          "ocr_characters": 893,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 309,
+          "ocr_attempted": true,
+          "ocr_characters": 827,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 310,
+          "ocr_attempted": true,
+          "ocr_characters": 521,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 311,
+          "ocr_attempted": true,
+          "ocr_characters": 484,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 312,
+          "ocr_attempted": true,
+          "ocr_characters": 758,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 313,
+          "ocr_attempted": true,
+          "ocr_characters": 205,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 314,
+          "ocr_attempted": true,
+          "ocr_characters": 339,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 315,
+          "ocr_attempted": true,
+          "ocr_characters": 510,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 316,
+          "ocr_attempted": true,
+          "ocr_characters": 717,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 317,
+          "ocr_attempted": true,
+          "ocr_characters": 1065,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 318,
+          "ocr_attempted": true,
+          "ocr_characters": 922,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 319,
+          "ocr_attempted": true,
+          "ocr_characters": 805,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 320,
+          "ocr_attempted": true,
+          "ocr_characters": 622,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 321,
+          "ocr_attempted": true,
+          "ocr_characters": 44,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 322,
+          "ocr_attempted": true,
+          "ocr_characters": 15,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 323,
+          "ocr_attempted": true,
+          "ocr_characters": 1010,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 324,
+          "ocr_attempted": true,
+          "ocr_characters": 759,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 325,
+          "ocr_attempted": true,
+          "ocr_characters": 530,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 326,
+          "ocr_attempted": true,
+          "ocr_characters": 630,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 327,
+          "ocr_attempted": true,
+          "ocr_characters": 619,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 328,
+          "ocr_attempted": true,
+          "ocr_characters": 1624,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 329,
+          "ocr_attempted": true,
+          "ocr_characters": 1030,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 330,
+          "ocr_attempted": true,
+          "ocr_characters": 887,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 331,
+          "ocr_attempted": true,
+          "ocr_characters": 747,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 332,
+          "ocr_attempted": true,
+          "ocr_characters": 944,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 333,
+          "ocr_attempted": true,
+          "ocr_characters": 1220,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 334,
+          "ocr_attempted": true,
+          "ocr_characters": 890,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 335,
+          "ocr_attempted": true,
+          "ocr_characters": 538,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 336,
+          "ocr_attempted": true,
+          "ocr_characters": 498,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 337,
+          "ocr_attempted": true,
+          "ocr_characters": 488,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 338,
+          "ocr_attempted": true,
+          "ocr_characters": 834,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 339,
+          "ocr_attempted": true,
+          "ocr_characters": 809,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 340,
+          "ocr_attempted": true,
+          "ocr_characters": 1056,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 341,
+          "ocr_attempted": true,
+          "ocr_characters": 943,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 342,
+          "ocr_attempted": true,
+          "ocr_characters": 770,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 343,
+          "ocr_attempted": true,
+          "ocr_characters": 267,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 344,
+          "ocr_attempted": true,
+          "ocr_characters": 326,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 345,
+          "ocr_attempted": true,
+          "ocr_characters": 252,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 346,
+          "ocr_attempted": true,
+          "ocr_characters": 385,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 347,
+          "ocr_attempted": true,
+          "ocr_characters": 674,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 348,
+          "ocr_attempted": true,
+          "ocr_characters": 675,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 349,
+          "ocr_attempted": true,
+          "ocr_characters": 1092,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 350,
+          "ocr_attempted": true,
+          "ocr_characters": 1128,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 351,
+          "ocr_attempted": true,
+          "ocr_characters": 855,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 352,
+          "ocr_attempted": true,
+          "ocr_characters": 664,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 353,
+          "ocr_attempted": true,
+          "ocr_characters": 632,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 354,
+          "ocr_attempted": true,
+          "ocr_characters": 623,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 355,
+          "ocr_attempted": true,
+          "ocr_characters": 493,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 356,
+          "ocr_attempted": true,
+          "ocr_characters": 354,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 357,
+          "ocr_attempted": true,
+          "ocr_characters": 368,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 358,
+          "ocr_attempted": true,
+          "ocr_characters": 770,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 359,
+          "ocr_attempted": true,
+          "ocr_characters": 1033,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 360,
+          "ocr_attempted": true,
+          "ocr_characters": 290,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 361,
+          "ocr_attempted": true,
+          "ocr_characters": 886,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 362,
+          "ocr_attempted": true,
+          "ocr_characters": 434,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 363,
+          "ocr_attempted": true,
+          "ocr_characters": 596,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 364,
+          "ocr_attempted": true,
+          "ocr_characters": 469,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 365,
+          "ocr_attempted": true,
+          "ocr_characters": 605,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 366,
+          "ocr_attempted": true,
+          "ocr_characters": 789,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 367,
+          "ocr_attempted": true,
+          "ocr_characters": 1186,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 368,
+          "ocr_attempted": true,
+          "ocr_characters": 462,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 369,
+          "ocr_attempted": true,
+          "ocr_characters": 589,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 370,
+          "ocr_attempted": true,
+          "ocr_characters": 338,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 371,
+          "ocr_attempted": true,
+          "ocr_characters": 652,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 372,
+          "ocr_attempted": true,
+          "ocr_characters": 871,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 373,
+          "ocr_attempted": true,
+          "ocr_characters": 627,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 374,
+          "ocr_attempted": true,
+          "ocr_characters": 861,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 375,
+          "ocr_attempted": true,
+          "ocr_characters": 708,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 376,
+          "ocr_attempted": true,
+          "ocr_characters": 804,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 377,
+          "ocr_attempted": true,
+          "ocr_characters": 690,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 378,
+          "ocr_attempted": true,
+          "ocr_characters": 238,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 379,
+          "ocr_attempted": true,
+          "ocr_characters": 1078,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 380,
+          "ocr_attempted": true,
+          "ocr_characters": 930,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 381,
+          "ocr_attempted": true,
+          "ocr_characters": 686,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 382,
+          "ocr_attempted": true,
+          "ocr_characters": 597,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 383,
+          "ocr_attempted": true,
+          "ocr_characters": 8,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 384,
+          "ocr_attempted": true,
+          "ocr_characters": 14,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 385,
+          "ocr_attempted": true,
+          "ocr_characters": 556,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 386,
+          "ocr_attempted": true,
+          "ocr_characters": 981,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 387,
+          "ocr_attempted": true,
+          "ocr_characters": 954,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 388,
+          "ocr_attempted": true,
+          "ocr_characters": 754,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 389,
+          "ocr_attempted": true,
+          "ocr_characters": 902,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 390,
+          "ocr_attempted": true,
+          "ocr_characters": 607,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 391,
+          "ocr_attempted": true,
+          "ocr_characters": 763,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 392,
+          "ocr_attempted": true,
+          "ocr_characters": 292,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 393,
+          "ocr_attempted": true,
+          "ocr_characters": 267,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 394,
+          "ocr_attempted": true,
+          "ocr_characters": 366,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 395,
+          "ocr_attempted": true,
+          "ocr_characters": 513,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 396,
+          "ocr_attempted": true,
+          "ocr_characters": 252,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 397,
+          "ocr_attempted": true,
+          "ocr_characters": 389,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 398,
+          "ocr_attempted": true,
+          "ocr_characters": 453,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 399,
+          "ocr_attempted": true,
+          "ocr_characters": 346,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 400,
+          "ocr_attempted": true,
+          "ocr_characters": 445,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 401,
+          "ocr_attempted": true,
+          "ocr_characters": 1147,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 402,
+          "ocr_attempted": true,
+          "ocr_characters": 850,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 403,
+          "ocr_attempted": true,
+          "ocr_characters": 585,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 404,
+          "ocr_attempted": true,
+          "ocr_characters": 602,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 405,
+          "ocr_attempted": true,
+          "ocr_characters": 783,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 406,
+          "ocr_attempted": true,
+          "ocr_characters": 702,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 407,
+          "ocr_attempted": true,
+          "ocr_characters": 368,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 408,
+          "ocr_attempted": true,
+          "ocr_characters": 374,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 409,
+          "ocr_attempted": true,
+          "ocr_characters": 443,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 410,
+          "ocr_attempted": true,
+          "ocr_characters": 1041,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 411,
+          "ocr_attempted": true,
+          "ocr_characters": 644,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 412,
+          "ocr_attempted": true,
+          "ocr_characters": 623,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 413,
+          "ocr_attempted": true,
+          "ocr_characters": 621,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 414,
+          "ocr_attempted": true,
+          "ocr_characters": 746,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 415,
+          "ocr_attempted": true,
+          "ocr_characters": 132,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 416,
+          "ocr_attempted": true,
+          "ocr_characters": 461,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 417,
+          "ocr_attempted": true,
+          "ocr_characters": 292,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 418,
+          "ocr_attempted": true,
+          "ocr_characters": 14,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 419,
+          "ocr_attempted": true,
+          "ocr_characters": 1064,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 420,
+          "ocr_attempted": true,
+          "ocr_characters": 1080,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 421,
+          "ocr_attempted": true,
+          "ocr_characters": 935,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 422,
+          "ocr_attempted": true,
+          "ocr_characters": 1093,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 423,
+          "ocr_attempted": true,
+          "ocr_characters": 1124,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 424,
+          "ocr_attempted": true,
+          "ocr_characters": 340,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 425,
+          "ocr_attempted": true,
+          "ocr_characters": 1160,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 426,
+          "ocr_attempted": true,
+          "ocr_characters": 876,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 427,
+          "ocr_attempted": true,
+          "ocr_characters": 1028,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 428,
+          "ocr_attempted": true,
+          "ocr_characters": 314,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 429,
+          "ocr_attempted": true,
+          "ocr_characters": 506,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 430,
+          "ocr_attempted": true,
+          "ocr_characters": 672,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 431,
+          "ocr_attempted": true,
+          "ocr_characters": 877,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 432,
+          "ocr_attempted": true,
+          "ocr_characters": 704,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 433,
+          "ocr_attempted": true,
+          "ocr_characters": 836,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 434,
+          "ocr_attempted": true,
+          "ocr_characters": 623,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 435,
+          "ocr_attempted": true,
+          "ocr_characters": 938,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 436,
+          "ocr_attempted": true,
+          "ocr_characters": 555,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 437,
+          "ocr_attempted": true,
+          "ocr_characters": 929,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 438,
+          "ocr_attempted": true,
+          "ocr_characters": 1015,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 439,
+          "ocr_attempted": true,
+          "ocr_characters": 571,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 440,
+          "ocr_attempted": true,
+          "ocr_characters": 1054,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 441,
+          "ocr_attempted": true,
+          "ocr_characters": 825,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 442,
+          "ocr_attempted": true,
+          "ocr_characters": 702,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 443,
+          "ocr_attempted": true,
+          "ocr_characters": 834,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 444,
+          "ocr_attempted": true,
+          "ocr_characters": 502,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 445,
+          "ocr_attempted": true,
+          "ocr_characters": 852,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 446,
+          "ocr_attempted": true,
+          "ocr_characters": 975,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 447,
+          "ocr_attempted": true,
+          "ocr_characters": 575,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 448,
+          "ocr_attempted": true,
+          "ocr_characters": 516,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 449,
+          "ocr_attempted": true,
+          "ocr_characters": 806,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 450,
+          "ocr_attempted": true,
+          "ocr_characters": 455,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 451,
+          "ocr_attempted": true,
+          "ocr_characters": 860,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 452,
+          "ocr_attempted": true,
+          "ocr_characters": 843,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 453,
+          "ocr_attempted": true,
+          "ocr_characters": 864,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 454,
+          "ocr_attempted": true,
+          "ocr_characters": 464,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 455,
+          "ocr_attempted": true,
+          "ocr_characters": 547,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 456,
+          "ocr_attempted": true,
+          "ocr_characters": 611,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 457,
+          "ocr_attempted": true,
+          "ocr_characters": 390,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 458,
+          "ocr_attempted": true,
+          "ocr_characters": 9,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 459,
+          "ocr_attempted": true,
+          "ocr_characters": 248,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 460,
+          "ocr_attempted": true,
+          "ocr_characters": 407,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 461,
+          "ocr_attempted": true,
+          "ocr_characters": 545,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 462,
+          "ocr_attempted": true,
+          "ocr_characters": 819,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 463,
+          "ocr_attempted": true,
+          "ocr_characters": 568,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 464,
+          "ocr_attempted": true,
+          "ocr_characters": 720,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 465,
+          "ocr_attempted": true,
+          "ocr_characters": 539,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 466,
+          "ocr_attempted": true,
+          "ocr_characters": 515,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 467,
+          "ocr_attempted": true,
+          "ocr_characters": 647,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 468,
+          "ocr_attempted": true,
+          "ocr_characters": 632,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 469,
+          "ocr_attempted": true,
+          "ocr_characters": 465,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 470,
+          "ocr_attempted": true,
+          "ocr_characters": 803,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 471,
+          "ocr_attempted": true,
+          "ocr_characters": 585,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 472,
+          "ocr_attempted": true,
+          "ocr_characters": 439,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 473,
+          "ocr_attempted": true,
+          "ocr_characters": 700,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 474,
+          "ocr_attempted": true,
+          "ocr_characters": 614,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 475,
+          "ocr_attempted": true,
+          "ocr_characters": 795,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 476,
+          "ocr_attempted": true,
+          "ocr_characters": 236,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 477,
+          "ocr_attempted": true,
+          "ocr_characters": 1120,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 478,
+          "ocr_attempted": true,
+          "ocr_characters": 770,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 479,
+          "ocr_attempted": true,
+          "ocr_characters": 664,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 480,
+          "ocr_attempted": true,
+          "ocr_characters": 699,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 481,
+          "ocr_attempted": true,
+          "ocr_characters": 288,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 482,
+          "ocr_attempted": true,
+          "ocr_characters": 899,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 483,
+          "ocr_attempted": true,
+          "ocr_characters": 260,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 484,
+          "ocr_attempted": true,
+          "ocr_characters": 686,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 485,
+          "ocr_attempted": true,
+          "ocr_characters": 561,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 486,
+          "ocr_attempted": true,
+          "ocr_characters": 101,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 487,
+          "ocr_attempted": true,
+          "ocr_characters": 1515,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 488,
+          "ocr_attempted": true,
+          "ocr_characters": 592,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 489,
+          "ocr_attempted": true,
+          "ocr_characters": 781,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 490,
+          "ocr_attempted": true,
+          "ocr_characters": 654,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 491,
+          "ocr_attempted": true,
+          "ocr_characters": 359,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 492,
+          "ocr_attempted": true,
+          "ocr_characters": 80,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 493,
+          "ocr_attempted": true,
+          "ocr_characters": 331,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 494,
+          "ocr_attempted": true,
+          "ocr_characters": 284,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 495,
+          "ocr_attempted": true,
+          "ocr_characters": 621,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 496,
+          "ocr_attempted": true,
+          "ocr_characters": 463,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 497,
+          "ocr_attempted": true,
+          "ocr_characters": 505,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 498,
+          "ocr_attempted": true,
+          "ocr_characters": 157,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 499,
+          "ocr_attempted": true,
+          "ocr_characters": 1136,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 500,
+          "ocr_attempted": true,
+          "ocr_characters": 305,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 501,
+          "ocr_attempted": true,
+          "ocr_characters": 575,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 502,
+          "ocr_attempted": true,
+          "ocr_characters": 332,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 503,
+          "ocr_attempted": true,
+          "ocr_characters": 416,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 504,
+          "ocr_attempted": true,
+          "ocr_characters": 524,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 505,
+          "ocr_attempted": true,
+          "ocr_characters": 461,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 506,
+          "ocr_attempted": true,
+          "ocr_characters": 630,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 507,
+          "ocr_attempted": true,
+          "ocr_characters": 1416,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 508,
+          "ocr_attempted": true,
+          "ocr_characters": 878,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 509,
+          "ocr_attempted": true,
+          "ocr_characters": 654,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 510,
+          "ocr_attempted": true,
+          "ocr_characters": 950,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 511,
+          "ocr_attempted": true,
+          "ocr_characters": 434,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 512,
+          "ocr_attempted": true,
+          "ocr_characters": 499,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 513,
+          "ocr_attempted": true,
+          "ocr_characters": 680,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 514,
+          "ocr_attempted": true,
+          "ocr_characters": 294,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 515,
+          "ocr_attempted": true,
+          "ocr_characters": 811,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 516,
+          "ocr_attempted": true,
+          "ocr_characters": 592,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 517,
+          "ocr_attempted": true,
+          "ocr_characters": 914,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 518,
+          "ocr_attempted": true,
+          "ocr_characters": 587,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 519,
+          "ocr_attempted": true,
+          "ocr_characters": 803,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 520,
+          "ocr_attempted": true,
+          "ocr_characters": 325,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 521,
+          "ocr_attempted": true,
+          "ocr_characters": 761,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 522,
+          "ocr_attempted": true,
+          "ocr_characters": 625,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 523,
+          "ocr_attempted": true,
+          "ocr_characters": 321,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 524,
+          "ocr_attempted": true,
+          "ocr_characters": 139,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 525,
+          "ocr_attempted": true,
+          "ocr_characters": 191,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 526,
+          "ocr_attempted": true,
+          "ocr_characters": 489,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 527,
+          "ocr_attempted": true,
+          "ocr_characters": 1117,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 528,
+          "ocr_attempted": true,
+          "ocr_characters": 126,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 529,
+          "ocr_attempted": true,
+          "ocr_characters": 712,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 530,
+          "ocr_attempted": true,
+          "ocr_characters": 698,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 531,
+          "ocr_attempted": true,
+          "ocr_characters": 759,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 532,
+          "ocr_attempted": true,
+          "ocr_characters": 551,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 533,
+          "ocr_attempted": true,
+          "ocr_characters": 896,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 534,
+          "ocr_attempted": true,
+          "ocr_characters": 609,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 535,
+          "ocr_attempted": true,
+          "ocr_characters": 600,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 536,
+          "ocr_attempted": true,
+          "ocr_characters": 497,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 537,
+          "ocr_attempted": true,
+          "ocr_characters": 820,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 538,
+          "ocr_attempted": true,
+          "ocr_characters": 488,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 539,
+          "ocr_attempted": true,
+          "ocr_characters": 508,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 540,
+          "ocr_attempted": true,
+          "ocr_characters": 517,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 541,
+          "ocr_attempted": true,
+          "ocr_characters": 958,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 542,
+          "ocr_attempted": true,
+          "ocr_characters": 676,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 543,
+          "ocr_attempted": true,
+          "ocr_characters": 511,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 544,
+          "ocr_attempted": true,
+          "ocr_characters": 320,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 545,
+          "ocr_attempted": true,
+          "ocr_characters": 646,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 546,
+          "ocr_attempted": true,
+          "ocr_characters": 726,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 547,
+          "ocr_attempted": true,
+          "ocr_characters": 907,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 548,
+          "ocr_attempted": true,
+          "ocr_characters": 817,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 549,
+          "ocr_attempted": true,
+          "ocr_characters": 647,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 550,
+          "ocr_attempted": true,
+          "ocr_characters": 631,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 551,
+          "ocr_attempted": true,
+          "ocr_characters": 399,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 552,
+          "ocr_attempted": true,
+          "ocr_characters": 539,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 553,
+          "ocr_attempted": true,
+          "ocr_characters": 915,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 554,
+          "ocr_attempted": true,
+          "ocr_characters": 821,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 555,
+          "ocr_attempted": true,
+          "ocr_characters": 896,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 556,
+          "ocr_attempted": true,
+          "ocr_characters": 800,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 557,
+          "ocr_attempted": true,
+          "ocr_characters": 1054,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 558,
+          "ocr_attempted": true,
+          "ocr_characters": 967,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 559,
+          "ocr_attempted": true,
+          "ocr_characters": 771,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 560,
+          "ocr_attempted": true,
+          "ocr_characters": 693,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 561,
+          "ocr_attempted": true,
+          "ocr_characters": 441,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 562,
+          "ocr_attempted": true,
+          "ocr_characters": 498,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 563,
+          "ocr_attempted": true,
+          "ocr_characters": 383,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 564,
+          "ocr_attempted": true,
+          "ocr_characters": 303,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 565,
+          "ocr_attempted": true,
+          "ocr_characters": 383,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 566,
+          "ocr_attempted": true,
+          "ocr_characters": 58,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 567,
+          "ocr_attempted": true,
+          "ocr_characters": 912,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 568,
+          "ocr_attempted": true,
+          "ocr_characters": 544,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 569,
+          "ocr_attempted": true,
+          "ocr_characters": 768,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 570,
+          "ocr_attempted": true,
+          "ocr_characters": 653,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 571,
+          "ocr_attempted": true,
+          "ocr_characters": 568,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 572,
+          "ocr_attempted": true,
+          "ocr_characters": 1340,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 573,
+          "ocr_attempted": true,
+          "ocr_characters": 1087,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 574,
+          "ocr_attempted": true,
+          "ocr_characters": 579,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 575,
+          "ocr_attempted": true,
+          "ocr_characters": 689,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 576,
+          "ocr_attempted": true,
+          "ocr_characters": 901,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 577,
+          "ocr_attempted": true,
+          "ocr_characters": 1277,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 578,
+          "ocr_attempted": true,
+          "ocr_characters": 886,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 579,
+          "ocr_attempted": true,
+          "ocr_characters": 933,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 580,
+          "ocr_attempted": true,
+          "ocr_characters": 900,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 581,
+          "ocr_attempted": true,
+          "ocr_characters": 1050,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 582,
+          "ocr_attempted": true,
+          "ocr_characters": 1165,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 583,
+          "ocr_attempted": true,
+          "ocr_characters": 1090,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 584,
+          "ocr_attempted": true,
+          "ocr_characters": 84,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 585,
+          "ocr_attempted": true,
+          "ocr_characters": 583,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 586,
+          "ocr_attempted": true,
+          "ocr_characters": 492,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 587,
+          "ocr_attempted": true,
+          "ocr_characters": 931,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 588,
+          "ocr_attempted": true,
+          "ocr_characters": 636,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 589,
+          "ocr_attempted": true,
+          "ocr_characters": 875,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 590,
+          "ocr_attempted": true,
+          "ocr_characters": 641,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 591,
+          "ocr_attempted": true,
+          "ocr_characters": 892,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 592,
+          "ocr_attempted": true,
+          "ocr_characters": 502,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 593,
+          "ocr_attempted": true,
+          "ocr_characters": 813,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 594,
+          "ocr_attempted": true,
+          "ocr_characters": 830,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 595,
+          "ocr_attempted": true,
+          "ocr_characters": 825,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 596,
+          "ocr_attempted": true,
+          "ocr_characters": 945,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 597,
+          "ocr_attempted": true,
+          "ocr_characters": 1185,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 598,
+          "ocr_attempted": true,
+          "ocr_characters": 756,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 599,
+          "ocr_attempted": true,
+          "ocr_characters": 860,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 600,
+          "ocr_attempted": true,
+          "ocr_characters": 711,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 601,
+          "ocr_attempted": true,
+          "ocr_characters": 715,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 602,
+          "ocr_attempted": true,
+          "ocr_characters": 534,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 603,
+          "ocr_attempted": true,
+          "ocr_characters": 806,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 604,
+          "ocr_attempted": true,
+          "ocr_characters": 875,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 605,
+          "ocr_attempted": true,
+          "ocr_characters": 948,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 606,
+          "ocr_attempted": true,
+          "ocr_characters": 680,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 607,
+          "ocr_attempted": true,
+          "ocr_characters": 1133,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 608,
+          "ocr_attempted": true,
+          "ocr_characters": 670,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 609,
+          "ocr_attempted": true,
+          "ocr_characters": 760,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 610,
+          "ocr_attempted": true,
+          "ocr_characters": 636,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 611,
+          "ocr_attempted": true,
+          "ocr_characters": 835,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 612,
+          "ocr_attempted": true,
+          "ocr_characters": 589,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 613,
+          "ocr_attempted": true,
+          "ocr_characters": 937,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 614,
+          "ocr_attempted": true,
+          "ocr_characters": 875,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 615,
+          "ocr_attempted": true,
+          "ocr_characters": 725,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 616,
+          "ocr_attempted": true,
+          "ocr_characters": 1185,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 617,
+          "ocr_attempted": true,
+          "ocr_characters": 786,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 618,
+          "ocr_attempted": true,
+          "ocr_characters": 534,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 619,
+          "ocr_attempted": true,
+          "ocr_characters": 425,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 620,
+          "ocr_attempted": true,
+          "ocr_characters": 516,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 621,
+          "ocr_attempted": true,
+          "ocr_characters": 878,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 622,
+          "ocr_attempted": true,
+          "ocr_characters": 536,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 623,
+          "ocr_attempted": true,
+          "ocr_characters": 765,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 624,
+          "ocr_attempted": true,
+          "ocr_characters": 938,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 625,
+          "ocr_attempted": true,
+          "ocr_characters": 1073,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 626,
+          "ocr_attempted": true,
+          "ocr_characters": 908,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 627,
+          "ocr_attempted": true,
+          "ocr_characters": 633,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 628,
+          "ocr_attempted": true,
+          "ocr_characters": 371,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 629,
+          "ocr_attempted": true,
+          "ocr_characters": 347,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 630,
+          "ocr_attempted": true,
+          "ocr_characters": 789,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 631,
+          "ocr_attempted": true,
+          "ocr_characters": 648,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 632,
+          "ocr_attempted": true,
+          "ocr_characters": 708,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 633,
+          "ocr_attempted": true,
+          "ocr_characters": 592,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 634,
+          "ocr_attempted": true,
+          "ocr_characters": 484,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 635,
+          "ocr_attempted": true,
+          "ocr_characters": 832,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 636,
+          "ocr_attempted": true,
+          "ocr_characters": 710,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 637,
+          "ocr_attempted": true,
+          "ocr_characters": 954,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 638,
+          "ocr_attempted": true,
+          "ocr_characters": 859,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 639,
+          "ocr_attempted": true,
+          "ocr_characters": 920,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 640,
+          "ocr_attempted": true,
+          "ocr_characters": 836,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 641,
+          "ocr_attempted": true,
+          "ocr_characters": 823,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 642,
+          "ocr_attempted": true,
+          "ocr_characters": 911,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 643,
+          "ocr_attempted": true,
+          "ocr_characters": 742,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 644,
+          "ocr_attempted": true,
+          "ocr_characters": 629,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 645,
+          "ocr_attempted": true,
+          "ocr_characters": 673,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 646,
+          "ocr_attempted": true,
+          "ocr_characters": 890,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 647,
+          "ocr_attempted": true,
+          "ocr_characters": 764,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 648,
+          "ocr_attempted": true,
+          "ocr_characters": 567,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 649,
+          "ocr_attempted": true,
+          "ocr_characters": 921,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 650,
+          "ocr_attempted": true,
+          "ocr_characters": 1199,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 651,
+          "ocr_attempted": true,
+          "ocr_characters": 584,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 652,
+          "ocr_attempted": true,
+          "ocr_characters": 559,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 653,
+          "ocr_attempted": true,
+          "ocr_characters": 435,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 654,
+          "ocr_attempted": true,
+          "ocr_characters": 687,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 655,
+          "ocr_attempted": true,
+          "ocr_characters": 864,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 656,
+          "ocr_attempted": true,
+          "ocr_characters": 235,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 657,
+          "ocr_attempted": true,
+          "ocr_characters": 492,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 658,
+          "ocr_attempted": true,
+          "ocr_characters": 389,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 659,
+          "ocr_attempted": true,
+          "ocr_characters": 518,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 660,
+          "ocr_attempted": true,
+          "ocr_characters": 278,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 661,
+          "ocr_attempted": true,
+          "ocr_characters": 748,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 662,
+          "ocr_attempted": true,
+          "ocr_characters": 182,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 663,
+          "ocr_attempted": true,
+          "ocr_characters": 373,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 664,
+          "ocr_attempted": true,
+          "ocr_characters": 709,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 665,
+          "ocr_attempted": true,
+          "ocr_characters": 375,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 666,
+          "ocr_attempted": true,
+          "ocr_characters": 988,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 667,
+          "ocr_attempted": true,
+          "ocr_characters": 1164,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 668,
+          "ocr_attempted": true,
+          "ocr_characters": 557,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 669,
+          "ocr_attempted": true,
+          "ocr_characters": 923,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 670,
+          "ocr_attempted": true,
+          "ocr_characters": 774,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 671,
+          "ocr_attempted": true,
+          "ocr_characters": 590,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 672,
+          "ocr_attempted": true,
+          "ocr_characters": 720,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 673,
+          "ocr_attempted": true,
+          "ocr_characters": 566,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 674,
+          "ocr_attempted": true,
+          "ocr_characters": 455,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 675,
+          "ocr_attempted": true,
+          "ocr_characters": 955,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 676,
+          "ocr_attempted": true,
+          "ocr_characters": 918,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 677,
+          "ocr_attempted": true,
+          "ocr_characters": 864,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 678,
+          "ocr_attempted": true,
+          "ocr_characters": 1030,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 679,
+          "ocr_attempted": true,
+          "ocr_characters": 895,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 680,
+          "ocr_attempted": true,
+          "ocr_characters": 755,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 681,
+          "ocr_attempted": true,
+          "ocr_characters": 954,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 682,
+          "ocr_attempted": true,
+          "ocr_characters": 76,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        }
+      ]
+    },
+    {
+      "name": "ARABI SAFWA TUL MASADIR.pdf",
+      "pdf_pages": 12,
+      "pages": [
+        {
+          "pdf_page": 1,
+          "ocr_attempted": true,
+          "ocr_characters": 21,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 2,
+          "ocr_attempted": true,
+          "ocr_characters": 299,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 3,
+          "ocr_attempted": true,
+          "ocr_characters": 942,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 4,
+          "ocr_attempted": true,
+          "ocr_characters": 1056,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 5,
+          "ocr_attempted": true,
+          "ocr_characters": 955,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 6,
+          "ocr_attempted": true,
+          "ocr_characters": 391,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 7,
+          "ocr_attempted": true,
+          "ocr_characters": 158,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 8,
+          "ocr_attempted": true,
+          "ocr_characters": 509,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 9,
+          "ocr_attempted": true,
+          "ocr_characters": 22,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 10,
+          "ocr_attempted": true,
+          "ocr_characters": 174,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 11,
+          "ocr_attempted": true,
+          "ocr_characters": 400,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 12,
+          "ocr_attempted": true,
+          "ocr_characters": 765,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        }
+      ]
+    },
+    {
+      "name": "TaiseerUlAbwabAlBushraColor.pdf",
+      "pdf_pages": 113,
+      "pages": [
+        {
+          "pdf_page": 1,
+          "ocr_attempted": true,
+          "ocr_characters": 42,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 2,
+          "ocr_attempted": true,
+          "ocr_characters": 42,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 3,
+          "ocr_attempted": true,
+          "ocr_characters": 582,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 4,
+          "ocr_attempted": true,
+          "ocr_characters": 288,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 5,
+          "ocr_attempted": true,
+          "ocr_characters": 500,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 6,
+          "ocr_attempted": true,
+          "ocr_characters": 827,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 7,
+          "ocr_attempted": true,
+          "ocr_characters": 849,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 8,
+          "ocr_attempted": true,
+          "ocr_characters": 911,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 9,
+          "ocr_attempted": true,
+          "ocr_characters": 907,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 10,
+          "ocr_attempted": true,
+          "ocr_characters": 638,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 11,
+          "ocr_attempted": true,
+          "ocr_characters": 0,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 12,
+          "ocr_attempted": true,
+          "ocr_characters": 54,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 13,
+          "ocr_attempted": true,
+          "ocr_characters": 102,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 14,
+          "ocr_attempted": true,
+          "ocr_characters": 183,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 15,
+          "ocr_attempted": true,
+          "ocr_characters": 760,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 16,
+          "ocr_attempted": true,
+          "ocr_characters": 113,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 17,
+          "ocr_attempted": true,
+          "ocr_characters": 127,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 18,
+          "ocr_attempted": true,
+          "ocr_characters": 37,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 19,
+          "ocr_attempted": true,
+          "ocr_characters": 48,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 20,
+          "ocr_attempted": true,
+          "ocr_characters": 60,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 21,
+          "ocr_attempted": true,
+          "ocr_characters": 168,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 22,
+          "ocr_attempted": true,
+          "ocr_characters": 441,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 23,
+          "ocr_attempted": true,
+          "ocr_characters": 133,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 24,
+          "ocr_attempted": true,
+          "ocr_characters": 125,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 25,
+          "ocr_attempted": true,
+          "ocr_characters": 18,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 26,
+          "ocr_attempted": true,
+          "ocr_characters": 140,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 27,
+          "ocr_attempted": true,
+          "ocr_characters": 45,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 28,
+          "ocr_attempted": true,
+          "ocr_characters": 450,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 29,
+          "ocr_attempted": true,
+          "ocr_characters": 610,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 30,
+          "ocr_attempted": true,
+          "ocr_characters": 528,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 31,
+          "ocr_attempted": true,
+          "ocr_characters": 197,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 32,
+          "ocr_attempted": true,
+          "ocr_characters": 368,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 33,
+          "ocr_attempted": true,
+          "ocr_characters": 0,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 34,
+          "ocr_attempted": true,
+          "ocr_characters": 0,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 35,
+          "ocr_attempted": true,
+          "ocr_characters": 0,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 36,
+          "ocr_attempted": true,
+          "ocr_characters": 249,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 37,
+          "ocr_attempted": true,
+          "ocr_characters": 93,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 38,
+          "ocr_attempted": true,
+          "ocr_characters": 0,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 39,
+          "ocr_attempted": true,
+          "ocr_characters": 46,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 40,
+          "ocr_attempted": true,
+          "ocr_characters": 0,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 41,
+          "ocr_attempted": true,
+          "ocr_characters": 443,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 42,
+          "ocr_attempted": true,
+          "ocr_characters": 160,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 43,
+          "ocr_attempted": true,
+          "ocr_characters": 28,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 44,
+          "ocr_attempted": true,
+          "ocr_characters": 199,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 45,
+          "ocr_attempted": true,
+          "ocr_characters": 462,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 46,
+          "ocr_attempted": true,
+          "ocr_characters": 265,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 47,
+          "ocr_attempted": true,
+          "ocr_characters": 0,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 48,
+          "ocr_attempted": true,
+          "ocr_characters": 185,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 49,
+          "ocr_attempted": true,
+          "ocr_characters": 856,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 50,
+          "ocr_attempted": true,
+          "ocr_characters": 316,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 51,
+          "ocr_attempted": true,
+          "ocr_characters": 462,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 52,
+          "ocr_attempted": true,
+          "ocr_characters": 120,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 53,
+          "ocr_attempted": true,
+          "ocr_characters": 279,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 54,
+          "ocr_attempted": true,
+          "ocr_characters": 247,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 55,
+          "ocr_attempted": true,
+          "ocr_characters": 237,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 56,
+          "ocr_attempted": true,
+          "ocr_characters": 406,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 57,
+          "ocr_attempted": true,
+          "ocr_characters": 387,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 58,
+          "ocr_attempted": true,
+          "ocr_characters": 97,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 59,
+          "ocr_attempted": true,
+          "ocr_characters": 137,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 60,
+          "ocr_attempted": true,
+          "ocr_characters": 280,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 61,
+          "ocr_attempted": true,
+          "ocr_characters": 337,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 62,
+          "ocr_attempted": true,
+          "ocr_characters": 253,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 63,
+          "ocr_attempted": true,
+          "ocr_characters": 0,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 64,
+          "ocr_attempted": true,
+          "ocr_characters": 108,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 65,
+          "ocr_attempted": true,
+          "ocr_characters": 238,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 66,
+          "ocr_attempted": true,
+          "ocr_characters": 25,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 67,
+          "ocr_attempted": true,
+          "ocr_characters": 233,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 68,
+          "ocr_attempted": true,
+          "ocr_characters": 0,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 69,
+          "ocr_attempted": true,
+          "ocr_characters": 0,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 70,
+          "ocr_attempted": true,
+          "ocr_characters": 0,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 71,
+          "ocr_attempted": true,
+          "ocr_characters": 0,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 72,
+          "ocr_attempted": true,
+          "ocr_characters": 464,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 73,
+          "ocr_attempted": true,
+          "ocr_characters": 75,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 74,
+          "ocr_attempted": true,
+          "ocr_characters": 0,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 75,
+          "ocr_attempted": true,
+          "ocr_characters": 131,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 76,
+          "ocr_attempted": true,
+          "ocr_characters": 92,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 77,
+          "ocr_attempted": true,
+          "ocr_characters": 453,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 78,
+          "ocr_attempted": true,
+          "ocr_characters": 0,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 79,
+          "ocr_attempted": true,
+          "ocr_characters": 20,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 80,
+          "ocr_attempted": true,
+          "ocr_characters": 34,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 81,
+          "ocr_attempted": true,
+          "ocr_characters": 271,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 82,
+          "ocr_attempted": true,
+          "ocr_characters": 349,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 83,
+          "ocr_attempted": true,
+          "ocr_characters": 56,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 84,
+          "ocr_attempted": true,
+          "ocr_characters": 10,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 85,
+          "ocr_attempted": true,
+          "ocr_characters": 37,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 86,
+          "ocr_attempted": true,
+          "ocr_characters": 22,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 87,
+          "ocr_attempted": true,
+          "ocr_characters": 252,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 88,
+          "ocr_attempted": true,
+          "ocr_characters": 0,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 89,
+          "ocr_attempted": true,
+          "ocr_characters": 70,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 90,
+          "ocr_attempted": true,
+          "ocr_characters": 93,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 91,
+          "ocr_attempted": true,
+          "ocr_characters": 90,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 92,
+          "ocr_attempted": true,
+          "ocr_characters": 125,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 93,
+          "ocr_attempted": true,
+          "ocr_characters": 0,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 94,
+          "ocr_attempted": true,
+          "ocr_characters": 75,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 95,
+          "ocr_attempted": true,
+          "ocr_characters": 263,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 96,
+          "ocr_attempted": true,
+          "ocr_characters": 142,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 97,
+          "ocr_attempted": true,
+          "ocr_characters": 56,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 98,
+          "ocr_attempted": true,
+          "ocr_characters": 94,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 99,
+          "ocr_attempted": true,
+          "ocr_characters": 91,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 100,
+          "ocr_attempted": true,
+          "ocr_characters": 129,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 101,
+          "ocr_attempted": true,
+          "ocr_characters": 27,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 102,
+          "ocr_attempted": true,
+          "ocr_characters": 0,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 103,
+          "ocr_attempted": true,
+          "ocr_characters": 168,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 104,
+          "ocr_attempted": true,
+          "ocr_characters": 190,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 105,
+          "ocr_attempted": true,
+          "ocr_characters": 120,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 106,
+          "ocr_attempted": true,
+          "ocr_characters": 424,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 107,
+          "ocr_attempted": true,
+          "ocr_characters": 220,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 108,
+          "ocr_attempted": true,
+          "ocr_characters": 261,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 109,
+          "ocr_attempted": true,
+          "ocr_characters": 378,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 110,
+          "ocr_attempted": true,
+          "ocr_characters": 438,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 111,
+          "ocr_attempted": true,
+          "ocr_characters": 136,
+          "opened_at_readable_resolution": true,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 112,
+          "ocr_attempted": true,
+          "ocr_characters": 1267,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        },
+        {
+          "pdf_page": 113,
+          "ocr_attempted": true,
+          "ocr_characters": 563,
+          "opened_at_readable_resolution": false,
+          "word_for_word_verified": false
+        }
+      ]
+    }
+  ]
+}
